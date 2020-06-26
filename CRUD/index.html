@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
   <script src="https://kit.fontawesome.com/4afbc35b2a.js" crossorigin="anonymous"></script>
   <script src="vue.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js"></script>
   <style type="text/css">
     #overlay{
       position: fixed;
@@ -15,6 +16,10 @@
       left: 0;
       right: 0;
       background: rgba(0,0,0,0.6);
+    }
+    #delete{
+      font-size: 25px;
+      color: red;
     }
   </style>
 </head>
@@ -34,17 +39,17 @@
           <h3 class="text-info">Registered Users</h3>
         </div>
         <div class="col-lg-6">
-          <button class="btn btn-info float-right" @click="showAddModal=true">
+          <button class="btn btn-info float-right" @click="showAddModal=true; clearMsg();">
             <i class="fas fa-user"></i>&nbsp;&nbsp;Add New User
           </button>
         </div>
       </div>
       <hr class="bg-info">
       <div class="alert alert-danger" v-if="errorMsg">
-        Error Occurred
+        {{ errorMsg }}
       </div>
       <div class="alert alert-success" v-if="successMsg">
-        Success!
+        {{ successMsg }}
       </div>
 
 
@@ -63,29 +68,13 @@
               </tr>
             </thead>
             <tbody>
-              <tr class="text-center">
-                <td>1</td>
-                <td>Steven</td>
-                <td>Wolli Creek</td>
-                <td>0472517365</td>
-                <td><a href="#" class="text-success" @click="showEditModal=true"><i class="fas fa-edit"></i></a></td>
-                <td><a href="#" class="text-success" @click="showDeleteModal=true"><i class="fas fa-trash-alt"></i></a></td>
-              </tr>
-              <tr class="text-center">
-                <td>1</td>
-                <td>Steven</td>
-                <td>Wolli Creek</td>
-                <td>0472517365</td>
-                <td><a href="#" class="text-success" @click="showEditModal=true"><i class="fas fa-edit"></i></a></td>
-                <td><a href="#" class="text-success" @click="showDeleteModal=true"><i class="fas fa-trash-alt"></i></a></td>
-              </tr>
-              <tr class="text-center">
-                <td>1</td>
-                <td>Steven</td>
-                <td>Wolli Creek</td>
-                <td>0472517365</td>
-                <td><a href="#" class="text-success" @click="showEditModal=true"><i class="fas fa-edit"></i></a></td>
-                <td><a href="#" class="text-success" @click="showDeleteModal=true"><i class="fas fa-trash-alt"></i></a></td>
+              <tr class="text-center" v-for="user in users">
+                <td>{{user.id}}</td>
+                <td>{{user.name}}</td>
+                <td>{{user.address}}</td>
+                <td>{{user.mobile}}</td>
+                <td><a href="#" class="text-success" @click="showEditModal=true; selectUser(user);"><i class="fas fa-edit"></i></a></td>
+                <td><a href="#" class="text-success" @click="showDeleteModal=true; selectUser(user)"><i class="fas fa-trash-alt"></i></a></td>
               </tr>
             </tbody>
           </table>
@@ -99,23 +88,23 @@
         <div class="modal-content">
           <div class="modal-header">
             <h5 class="modal-title">Add New User</h5>
-            <button type="button" class="close" @click="showAddModal=false">
+            <button type="button" class="close" @click="showAddModal=false; clearMsg();">
               <span aria-hidden="true">&times;</span>
             </button>
           </div>
           <div class="modal-body p4">
             <form action="#" method="post">
               <div class="form-group">
-                <input type="text" name="name" class="form-control form-control-lg" placeholder="Name">
+                <input type="text" name="name" class="form-control form-control-lg" placeholder="Name" v-model="newUser.name">
               </div>
               <div class="form-group">
-                <input type="text" name="address" class="form-control form-control-lg" placeholder="Address">
+                <input type="text" name="address" class="form-control form-control-lg" placeholder="Address" v-model="newUser.address">
               </div>
               <div class="form-group">
-                <input type="tel" name="mobile" class="form-control form-control-lg" placeholder="Mobile">
+                <input type="tel" name="mobile" class="form-control form-control-lg" placeholder="Mobile" v-model="newUser.mobile">
               </div>
               <div class="form-group">
-                <button class="btn btn-info btn-block btn-lg" @click="showAddModal=false">Add User</button>
+                <button class="btn btn-info btn-block btn-lg" @click="showAddModal=false; addUser(); clearMsg();">Add User</button>
               </div>
             </form>
           </div>
@@ -129,23 +118,23 @@
         <div class="modal-content">
           <div class="modal-header">
             <h5 class="modal-title">Edit User</h5>
-            <button type="button" class="close" @click="showEditModal=false">
+            <button type="button" class="close" @click="showEditModal=false; clearMsg();">
               <span aria-hidden="true">&times;</span>
             </button>
           </div>
           <div class="modal-body p4">
             <form action="#" method="post">
               <div class="form-group">
-                <input type="text" name="name" class="form-control form-control-lg" placeholder="Name">
+                <input type="text" name="name" class="form-control form-control-lg" v-model="currentUser.name">
               </div>
               <div class="form-group">
-                <input type="text" name="address" class="form-control form-control-lg" placeholder="Address">
+                <input type="text" name="address" class="form-control form-control-lg" v-model="currentUser.address">
               </div>
               <div class="form-group">
-                <input type="tel" name="mobile" class="form-control form-control-lg" placeholder="Mobile">
+                <input type="tel" name="mobile" class="form-control form-control-lg" v-model="currentUser.mobile">
               </div>
               <div class="form-group">
-                <button class="btn btn-info btn-block btn-lg" @click="showEditModal=false">Update User</button>
+                <button class="btn btn-info btn-block btn-lg" @click="showEditModal=false; updateUser(); clearMsg();" >Update User</button>
               </div>
             </form>
           </div>
@@ -159,16 +148,17 @@
         <div class="modal-content">
           <div class="modal-header">
             <h5 class="modal-title">Delete User</h5>
-            <button type="button" class="close" @click="showDeleteModal=false">
+            <button type="button" class="close" @click="showDeleteModal=false; clearMsg();">
               <span aria-hidden="true">&times;</span>
             </button>
           </div>
           <div class="modal-body p4">
               <h4 class="text-danger">Are you sure want to delete this user?</h4>
-              <h5>You are deleting 'steven'</h5>
+              <br>
+              <h5>You are deleting <sapn class="text-danger" id="delete">{{currentUser.name}}</span></h5>
               <hr>
-              <button class="btn btn-danger btn-lg" @click="showDeleteModal=false">Yes</button>&nbsp;&nbsp;&nbsp;&nbsp;
-              <button class="btn btn-success btn-lg" @click="showDeleteModal=false">No</button>
+              <button class="btn btn-danger btn-lg" @click="showDeleteModal=false; deleteUser(); clearMsg();">Yes</button>&nbsp;&nbsp;&nbsp;&nbsp;
+              <button class="btn btn-success btn-lg" @click="showDeleteModal=false; clearMsg();">No</button>
           </div>
         </div>
       </div>
