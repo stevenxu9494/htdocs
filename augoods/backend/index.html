@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script type="text/javascript" src='vue.min.js'></script>
+  <script type="text/javascript" src='axios-master/dist/axios.min.js'></script>
+</head>
+<body>
+  <div id='backend'>
+    <!-- Select all recordes -->
+    <input type="button" value='Select all products' @click='allRecords()'>
+    <br><br>
+
+    <!-- Select record by category
+    <input type="text" placeholder="Enter category" v-model='productCategory'>
+    <input type="button" value="Select category" @click='recordByCategory()'> -->
+
+    <!-- List records -->
+    <table border='1' width='80%' style='border-collapse: collapse;'>
+      <tr>
+        <th>Product Name</th>
+        <th>Selling Price</th>
+        <th>Brand</th>
+        <th>Category</th>
+      </tr>
+      <tr v-for='product in products'>
+        <td>{{ product.name }}</td>
+        <td>{{ product.sellPrice }}</td>
+        <td>{{ product.brand }}</td>
+        <td>{{ product.category }}</td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- Script -->
+  <script type="text/javascript">
+    var app = new Vue({
+      el: '#backend',
+      data: {
+        products: ""
+      },
+      methods: {
+        allRecords: function() {
+          axios.get('ajaxfile.php')
+          .then(function(response){
+            app.products = response.data;
+            console.log(app.products)
+          })
+          .catch(function(error){
+            console.log(error);
+          });
+        }}})
+  </script>
+
+</body>
+</html>

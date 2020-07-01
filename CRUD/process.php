@@ -27,7 +27,7 @@
     }
     $result['users'] = $users;
   }
-
+  echo json_encode($result);
   if($action == 'create'){
     $name = $_POST['name'];
     $address = $_POST['address'];
@@ -72,5 +72,5 @@
   }
 
   $conn->close();
-  echo json_encode($result);
+  
 ?>
