@@ -1,25 +1,32 @@
 import Vue from "vue";
 import Vuex from "vuex";
+import Axios from "axios";
 
 Vue.use(Vuex);
-const testData = [];
-// const thumbUrlWrong = "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586249037379-sthumb";
-let thumbUrl = "http://cdn.aumake.com/product_main_1586249037379-sthumb"
-thumbUrl = thumbUrl.replace(/[\\]/g,'');
-for (let i = 1; i <= 10; i++) {
-  testData.push({
-  id: i, name: `Product #${i}`, category: `Category ${i % 3}`,
-  description: `This is Product #${i}`, price: i * 50,
-  thumbUrl:`${thumbUrl}`
-  })
-}
-console.log(testData);
+
+const baseUrl = "http://localhost:3500";
+const productsUrl = `${baseUrl}/products`;
+const categoriesUrl = `${baseUrl}/categories`;
+
+// const testData = [];
+// // const thumbUrlWrong = "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586249037379-sthumb";
+// let thumbUrl = "http://cdn.aumake.com/product_main_1586249037379-sthumb"
+// thumbUrl = thumbUrl.replace(/[\\]/g,'');
+// for (let i = 1; i <= 10; i++) {
+//   testData.push({
+//   id: i, name: `Product #${i}`, category: `Category ${i % 3}`,
+//   description: `This is Product #${i}`, price: i * 50,
+//   thumbUrl:`${thumbUrl}`
+//   })
+// }
+// console.log(testData);
 
 export default new Vuex.Store({
   strict: true,
   state: {
-    products: testData,
-    productsTotal: testData.length,
+    products: [],
+    categoriesData: [],
+    productsTotal: 0,
     currentPage:1,
     pageSize: 4,
     currentCategory: "All"
@@ -37,7 +44,7 @@ export default new Vuex.Store({
     pageCount: (state, getters) =>
     Math.ceil(getters.productsFilteredByCategory.length / state.pageSize), 
     categories: state => ["All", 
-      ...new Set(state.products.map(p=>p.category).sort())]
+      ...state.categoriesData]
   },
   mutations: {
     setCurrentPage(state, page) {
@@ -50,6 +57,18 @@ export default new Vuex.Store({
     setCurrentCategory(state,category) {
       state.currentCategory=category;
       state.currentPage =1;
+    },
+    setData(state, data) {
+      state.products = data.pdata;
+      state.productsTotal = data.pdata.length;
+      state.categoriesData = data.cdata.sort();
+    }
+  },
+  actions: {
+    async getData(context) {
+      let pdata = (await Axios.get(productsUrl)).data;
+      let cdata = (await Axios.get(categoriesUrl)).data;
+      context.commit("setData", {pdata, cdata});
     }
   }
 })

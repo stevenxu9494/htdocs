@@ -2,12 +2,17 @@
   <store />
 </template>
 <script>
+  import Store from "./components/Store";
+  import { mapActions } from "vuex";
 
-
-import Store from "./components/Store";
-
-export default {
-  name: 'app',
-  components: { Store }
-}
+  export default {
+    name: 'app',
+    components: { Store },
+    methods:{
+      ...mapActions(["getData"])
+    },
+    created() {
+      this.getData();
+    }
+  }
 </script>
