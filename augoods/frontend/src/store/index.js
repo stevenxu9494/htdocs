@@ -29,11 +29,11 @@ export default new Vuex.Store({
     productsTotal: 0,
     currentPage:1,
     pageSize: 4,
-    currentCategory: "All"
+    currentCategory: "全部"
   },
   getters:{
     productsFilteredByCategory: state => state.products
-    .filter(p=>state.currentCategory == "All"
+    .filter(p=>state.currentCategory == "全部"
     || p.category == state.currentCategory),
 
     processedProducts:(state, getters) => {
@@ -43,7 +43,7 @@ export default new Vuex.Store({
     },
     pageCount: (state, getters) =>
     Math.ceil(getters.productsFilteredByCategory.length / state.pageSize), 
-    categories: state => ["All", 
+    categories: state => ["全部", 
       ...state.categoriesData]
   },
   mutations: {

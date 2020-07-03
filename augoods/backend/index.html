@@ -11,6 +11,7 @@
   <div id='backend'>
     <!-- Select all recordes -->
     <input type="button" value='Select all products' @click='allRecords()'>
+    <input type="button" value="Get all categories" @click='categoryRecords()'>
     <br><br>
 
     <!-- Select record by category
@@ -39,7 +40,8 @@
     var app = new Vue({
       el: '#backend',
       data: {
-        products: ""
+        products: "",
+        categories:""
       },
       methods: {
         allRecords: function() {
@@ -51,7 +53,18 @@
           .catch(function(error){
             console.log(error);
           });
-        }}})
+        },
+        categoryRecords: function() {
+          axios.get('ajaxfile.php')
+          .then(function(response){
+            app.categories =response.data.categories;
+            console.log(app.categories)
+          })
+          .catch(function(error){
+            console.log(error);
+          });
+        }
+      }})
   </script>
 
 </body>
