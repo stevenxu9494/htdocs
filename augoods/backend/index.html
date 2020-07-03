@@ -45,7 +45,7 @@
         allRecords: function() {
           axios.get('ajaxfile.php')
           .then(function(response){
-            app.products = response.data;
+            app.products = response.data.products;
             console.log(app.products)
           })
           .catch(function(error){
