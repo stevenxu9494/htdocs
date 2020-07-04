@@ -26,6 +26,7 @@ export default new Vuex.Store({
   state: {
     products: [],
     categoriesData: [],
+    allProducts: [],
     productsTotal: 0,
     currentPage:1,
     pageSize: 4,
@@ -70,5 +71,18 @@ export default new Vuex.Store({
       let cdata = (await Axios.get(categoriesUrl)).data;
       context.commit("setData", {pdata, cdata});
     }
+    // ,
+    // getData(context) {
+    //   Axios.get('http://localhost:8000/augoods/backend/ajaxfile.php')
+    //     .then(function(response){
+    //       let pdata =response.data.products;
+    //       let cdata =response.data.categories;
+    //       context.commit("setData", {pdata, cdata});
+    //     })
+    //     .catch(function(error){
+    //       console.log(error);
+    //     });
+    // }
   }
+
 })

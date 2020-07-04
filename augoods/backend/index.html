@@ -40,15 +40,15 @@
     var app = new Vue({
       el: '#backend',
       data: {
-        products: "",
-        categories:""
+        products: [],
+        categories:[]
       },
       methods: {
         allRecords: function() {
           axios.get('ajaxfile.php')
           .then(function(response){
             app.products = response.data.products;
-            console.log(app.products)
+            console.log(app.products);
           })
           .catch(function(error){
             console.log(error);
@@ -58,7 +58,7 @@
           axios.get('ajaxfile.php')
           .then(function(response){
             app.categories =response.data.categories;
-            console.log(app.categories)
+            console.log(app.categories);
           })
           .catch(function(error){
             console.log(error);
