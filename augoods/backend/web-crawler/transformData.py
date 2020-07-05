@@ -11,8 +11,9 @@ idPattern = re.compile(r'"id":\"(.*?)\"')
 name = []
 namePattern = re.compile(r'"name":\"(.*?)\"')
 
-sellPrice = []
 price = []
+cost = []
+sellPrice = []
 pricePattern = re.compile(r'"price":\"(.*?)\"')
 
 brand = []
@@ -44,6 +45,7 @@ currencyRate = 5
 mixedShippingFee = 7.5
 formulaShippingFee = 5.0
 currentIndex = 0
+profitRate = 1.3
 for line in lines:
     # current line index
     currentIndex +=1
@@ -130,9 +132,10 @@ for line in lines:
             for priceMatch in priceMatches:
                 price.append(successResponseBody[priceMatch.span()[0] + 9:priceMatch.span()[1] - 1])
                 # if successResponseBody[priceMatch.span()[0] + 9:priceMatch.span()[1] - 1] != '0.00':
-                sellPrice.append(str(round(float(successResponseBody[priceMatch.span()[0] + 9:priceMatch.span()[1] - 1]) * currencyRate * 1.3, 2)))
+                sellPrice.append(str(round(float(successResponseBody[priceMatch.span()[0] + 9:priceMatch.span()[1] - 1]) * currencyRate * profitRate, 2)))
                 # else:
                 #     sellPrice.append('价格波动，请微信咨询')
+                cost.append(successResponseBody[priceMatch.span()[0] + 9:priceMatch.span()[1] - 1])
 
 
             # append with ship rmb price
@@ -147,6 +150,7 @@ for i in range(len(id)):
     data['id'] = id
     data['name'] = name
     data['price'] = price
+    data['cost'] = cost
     data['sellPrice'] = sellPrice
     data['brand'] = brand
     data['category'] = category
@@ -158,15 +162,13 @@ for i in range(len(id)):
     # data['withShipRmbPrice'] = withShipRmbPrice
 
 for j in range(len(id)):
-    print(data['sellPrice'][j])
-    print("--------------------")
-
     if data['category'][j] != '奶粉':
-        data['sellPrice'][j] = str(round(float(data['sellPrice'][j]) + ((float(data['netWeight'][j]) / 1000) * mixedShippingFee) * currencyRate, 2))
+        data['sellPrice'][j] = str(round(float(data['sellPrice'][j]) + (((float(data['netWeight'][j]) / 1000) * mixedShippingFee) * currencyRate)*profitRate, 2))
+        data['cost'][j] = str(round((float(data['price'][j]) + float(float(data['netWeight'][j]) /1000 * mixedShippingFee)) * currencyRate, 2))
     else:
-        data['sellPrice'][j] = str(round(float(data['sellPrice'][j]) + ((float(data['netWeight'][j]) / 1000) * formulaShippingFee) * currencyRate, 2))
-    print(data['sellPrice'][j])
-# print(data)
+        data['sellPrice'][j] = str(round(float(data['sellPrice'][j]) + (((float(data['netWeight'][j]) / 1000) * formulaShippingFee) * currencyRate)*profitRate, 2))
+        data['cost'][j] = str(round((float(data['price'][j]) + float(float(data['netWeight'][j]) /1000 * formulaShippingFee)) * currencyRate, 2))
+# print(data['price'])
 # print("########################################")
 # print("id's length: " + str(len(id)))
 # print("########################################")

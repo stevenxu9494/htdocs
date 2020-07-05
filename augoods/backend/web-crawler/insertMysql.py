@@ -56,10 +56,10 @@ except pymysql.Error as e:
     conn.rollback()
 
 # 插入所有数据
-sql = "INSERT INTO Products (id,name,price,sellPrice,brand,category,sales,netWeight,unit,thumbUrl,imageUrl) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+sql = "INSERT INTO Products (id,name,price,cost, sellPrice,brand,category,sales,netWeight,unit,thumbUrl,imageUrl) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
 
 for i in range(len(productJson)):
-    singleVal = (int(productJson[i].id), str(productJson[i].name), float(productJson[i].price), float(productJson[i].sellPrice), str(productJson[i].brand), str(productJson[i].category), int(productJson[i].sales), int(productJson[i].netWeight), str(productJson[i].unit), str(productJson[i].thumbUrl), str(productJson[i].imageUrl))
+    singleVal = (int(productJson[i].id), str(productJson[i].name), float(productJson[i].price), float(productJson[i].cost), float(productJson[i].sellPrice), str(productJson[i].brand), str(productJson[i].category), int(productJson[i].sales), int(productJson[i].netWeight), str(productJson[i].unit), str(productJson[i].thumbUrl), str(productJson[i].imageUrl))
 
     try:
 
