@@ -41,7 +41,8 @@ imageUrlPattern = re.compile(r'"image_url":\"(.*?)\"')
 
 # Today's currency rate
 currencyRate = 5
-shippingFee = 6.5
+mixedShippingFee = 7.5
+formulaShippingFee = 5.0
 currentIndex = 0
 for line in lines:
     # current line index
@@ -127,7 +128,6 @@ for line in lines:
             # append price
             priceMatches = pricePattern.finditer(successResponseBody)
             for priceMatch in priceMatches:
-                print(priceMatch)
                 price.append(successResponseBody[priceMatch.span()[0] + 9:priceMatch.span()[1] - 1])
                 # if successResponseBody[priceMatch.span()[0] + 9:priceMatch.span()[1] - 1] != '0.00':
                 sellPrice.append(str(round(float(successResponseBody[priceMatch.span()[0] + 9:priceMatch.span()[1] - 1]) * currencyRate * 1.3, 2)))
@@ -157,6 +157,15 @@ for i in range(len(id)):
     data['imageUrl'] = imageUrl
     # data['withShipRmbPrice'] = withShipRmbPrice
 
+for j in range(len(id)):
+    print(data['sellPrice'][j])
+    print("--------------------")
+
+    if data['category'][j] != '奶粉':
+        data['sellPrice'][j] = str(round(float(data['sellPrice'][j]) + ((float(data['netWeight'][j]) / 1000) * mixedShippingFee) * currencyRate, 2))
+    else:
+        data['sellPrice'][j] = str(round(float(data['sellPrice'][j]) + ((float(data['netWeight'][j]) / 1000) * formulaShippingFee) * currencyRate, 2))
+    print(data['sellPrice'][j])
 # print(data)
 # print("########################################")
 # print("id's length: " + str(len(id)))
