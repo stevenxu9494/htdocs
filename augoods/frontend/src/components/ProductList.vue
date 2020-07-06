@@ -9,7 +9,14 @@
             {{ p.sellPrice | currency}}
           </span>
         </h4>
-        <div class="card-text bg-white p-1">{{ p.description }}</div>
+        <div class="card-text bg-white p-1">
+          <p>品牌： {{ p.brand }}</p>
+          <p>重量： {{ p.netWeight }}g</p>
+          <p>销量： {{ p.sales }}</p>
+          <button class="btn btn-success btn-sm float-right" v-on:click="handleProductAdd(p)">
+            <i class="fa fa-shopping-cart" aria-hidden="true"></i>&nbsp;&nbsp;加入购物车
+          </button>
+        </div>
       </div>
     </div>
     <page-controls />
@@ -18,7 +25,7 @@
 
 <script>
 
-import { mapGetters } from "vuex";
+import { mapGetters, mapMutations } from "vuex";
 import PageControls from "./PageControls";
 
 export default {
@@ -30,6 +37,13 @@ export default {
     currency(value) {
       return new Intl.NumberFormat("zh-CN",
       { style: "currency", currency: "CNY"}).format(value);
+    }
+  },
+  methods:{
+    ...mapMutations({ addProduct: "cart/addProduct" }),
+    handleProductAdd(product) {
+      this.addProduct(product);
+      this.$router.push("/cart");
     }
   }
 }
