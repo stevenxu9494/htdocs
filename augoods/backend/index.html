@@ -21,9 +21,10 @@
     <!-- List records -->
     <table border='1' width='80%' style='border-collapse: collapse;'>
       <tr>
-        <th>Product Name</th>
-        <th>Category</th>
-        <th>Brand</th>
+        <th>商品名</th>
+        <th>种类</th>
+        <th>品牌</th>
+        <th>卖价</th>
         <th>成本</th>
         <th>卖价</th>
         <th>单件盈利</th>
@@ -35,6 +36,7 @@
         <td>{{ product.name }}</td>
         <td>{{ product.category }}</td>
         <td>{{ product.brand }}</td>  
+        <td>{{ product.price }}</td>
         <td>{{ product.cost}}</td>
         <td>{{ product.sellPrice }}</td>
         <td>{{ Number((product.sellPrice - product.cost).toFixed(2)) }}</td>
