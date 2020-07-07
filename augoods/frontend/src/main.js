@@ -9,6 +9,9 @@ import "font-awesome/css/font-awesome.min.css";
 import store from "./store";
 import router from "./router";
 
+Vue.filter("currency", (value) => new Intl.NumberFormat("zh-CN",
+{ style: "currency", currency: "CNY"}).format(value));
+
 new Vue({
   render: h => h(App),
   store,
