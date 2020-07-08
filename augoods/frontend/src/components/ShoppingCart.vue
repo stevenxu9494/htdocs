@@ -46,7 +46,7 @@
           </router-link>
           <router-link to="/checkout" class="btn btn-primary m-1"
             v-bind:diabled="lines.length==0">
-            确认下单
+            确认订单
           </router-link>
         </div>
       </div>
