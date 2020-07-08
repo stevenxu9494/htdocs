@@ -2,9 +2,9 @@
   <div class="row mt-2">
     <div class="col-3 form-group">
       <select class="form-control" v-on:change="changePageSize">
-        <option value="4">每页4个</option>
-        <option value="8">每页8个</option>
-        <option value="12">每页12个</option>
+        <option value="4">每页四件</option>
+        <option value="8">每页八件</option>
+        <option value="12">每页十二件</option>
       </select>
     </div>
     <div class="text-right col">

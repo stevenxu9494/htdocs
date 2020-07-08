@@ -35,7 +35,9 @@ export default new Vuex.Store({
     pageSize: 4,
     currentCategory: "全部",
     pages: [],
-    serverPageCount: 0
+    serverPageCount: 0,
+    searchTerm: "",
+    showSearch: true
   },
   getters:{
     // productsFilteredByCategory: state => state.products
@@ -96,11 +98,11 @@ export default new Vuex.Store({
     // state.categoriesData = data.cdata.sort();
     // },
     addPage(state, page) {
-    for (let i = 0; i < page.pageCount; i++) {
-    Vue.set(state.pages, page.number + i,
-    page.data.slice(i * state.pageSize,
-    (i * state.pageSize) + state.pageSize));
-    }
+      for (let i = 0; i < page.pageCount; i++) {
+        Vue.set(state.pages, page.number + i,
+        page.data.slice(i * state.pageSize,
+        (i * state.pageSize) + state.pageSize));
+      }
     },
     clearPages(state) {
       state.pages.splice(0, state.pages.length);
@@ -110,6 +112,13 @@ export default new Vuex.Store({
     },
     setPageCount(state, count) {
       state.serverPageCount = Math.ceil(Number(count) / state.pageSize);
+    },
+    setShowSearch(state, show) {
+      state.showSearch = show;
+    },
+    setSearchTerm(state, term) {
+      state.searchTerm = term;
+      state.currentPage = 1;
     },
   },
   actions: {
@@ -141,6 +150,12 @@ export default new Vuex.Store({
       if (context.state.currentCategory != "全部") {
         url += `&category=${context.state.currentCategory}`;
       }
+
+      // add search url
+      if (context.state.searchTerm != "") {
+        url += `&q=${context.state.searchTerm}`;
+      }
+
       let response = await Axios.get(url);
       context.commit("setPageCount", response.headers["x-total-count"]);
       context.commit("addPage", { number: context.state.currentPage,
@@ -160,6 +175,16 @@ export default new Vuex.Store({
     setCurrentCategory(context, category) {
       context.commit("clearPages");
       context.commit("_setCurrentCategory", category);
+      context.dispatch("getPage", 2);
+    },
+    search(context, term) {
+      context.commit("setSearchTerm", term);
+      context.commit("clearPages");
+      context.dispatch("getPage", 2);
+    },
+    clearSearchTerm(context) {
+      context.commit("setSearchTerm", "");
+      context.commit("clearPages");
       context.dispatch("getPage", 2);
     }
   }
