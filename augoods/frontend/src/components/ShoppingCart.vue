@@ -2,7 +2,7 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col bg-dark text-white">
-        <a class="navbar-brand">澳驰</a>
+        <a href="/" class="navbar-brand" style="color: inherit;text-decoration: none;"><img style="height:3vh;" src="@/assets/logo.png">澳驰</a>
       </div>
     </div>
     <div class="row">

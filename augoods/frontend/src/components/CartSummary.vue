@@ -1,6 +1,5 @@
 <template>
-  <div class="float-right">
-    
+  <div class="float-right">    
     <router-link to = "/cart" class="btn btn-sm bg-dark text-white" 
       v-bind:disabled="itemCount == 0">
       <i class="fa fa-shopping-cart"></i>

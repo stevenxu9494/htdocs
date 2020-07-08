@@ -14,7 +14,7 @@ export default new VueRouter({
     { path: "/", component: Store},
     { path: "/cart", component:ShoppingCart },
     { path: "/checkout", component: Checkout},
-    { path: "thanks/:id", name: 'thanksPage', component: OrderThanks},
+    { path: "/thanks/:id", name: 'thanksPage', component: OrderThanks},
     { path: "*", redirect:"/"}
   ]
 })
