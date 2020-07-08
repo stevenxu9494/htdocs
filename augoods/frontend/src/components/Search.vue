@@ -3,7 +3,7 @@
         <label class="col-2 col-form-label text-right"><i class="fa fa-search" aria-hidden="true"></i></label>
         <input class="col form-control mx-3" 
             v-bind:value="searchTerm" v-on:input="doSearch"
-            placeholder="搜索 澳驰 商品/种类" />
+            placeholder="搜索 澳驰 商品/种类" style="opacity: 0.5"/>
         <!-- <button class="col-1 btn btn-sm btn-secondary mx-4" 
                 v-on:click="handleClose">
             关闭
