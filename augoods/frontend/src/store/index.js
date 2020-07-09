@@ -3,6 +3,7 @@ import Vuex from "vuex";
 import Axios from "axios";
 import CartModule from "./cart";
 import OrdersModule from "./orders";
+import AuthModule from "./auth";
 
 Vue.use(Vuex);
 
@@ -25,7 +26,7 @@ const categoriesUrl = `${baseUrl}/categories`;
 
 export default new Vuex.Store({
   strict: true,
-  modules: { cart: CartModule, orders: OrdersModule },
+  modules: { cart: CartModule, orders: OrdersModule, auth: AuthModule },
   state: {
     // products: [],
     categoriesData: [],
@@ -37,7 +38,9 @@ export default new Vuex.Store({
     pages: [],
     serverPageCount: 0,
     searchTerm: "",
-    showSearch: true
+    showSearch: true,
+    currentProduct: {},
+    showProductDetail: false
   },
   getters:{
     // productsFilteredByCategory: state => state.products
@@ -84,6 +87,9 @@ export default new Vuex.Store({
     _setCurrentPage(state, page) {
       state.currentPage = page;
     },
+    _setCurrentProduct(state, product) {
+      state.currentProduct = product;
+    },
     _setPageSize(state, size) {
     state.pageSize = size;
     state.currentPage = 1;
@@ -110,11 +116,17 @@ export default new Vuex.Store({
     setCategories(state, categories) {
       state.categoriesData = categories;
     },
+    setCurrentProduct(state, product) {
+      state.currentProduct = product
+    },
     setPageCount(state, count) {
       state.serverPageCount = Math.ceil(Number(count) / state.pageSize);
     },
     setShowSearch(state, show) {
       state.showSearch = show;
+    },
+    setShowProductDetail(state, show) {
+      state.showProductDetail = show;
     },
     setSearchTerm(state, term) {
       state.searchTerm = term;
@@ -167,6 +179,10 @@ export default new Vuex.Store({
         context.dispatch("getPage");
       }
     },
+    setCurrentProduct(context, product) {
+      context.commit("_setCurrentProduct", product);
+    },
+
     setPageSize(context, size) {
       context.commit("clearPages");
       context.commit("_setPageSize", size);
