@@ -2,17 +2,16 @@
   * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
   }
-  body {
-    font-family: 'montserrat', sans-serif;
-  }
-  #application{
-    display:flex;
-  }
+
   .modal-overlay {
     position: absolute;
-    height: 200vh;
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+    padding: 5px;
+    display: flex;
+    min-height: 100%;
     top: 0;
     left: 0;
     right: 0;

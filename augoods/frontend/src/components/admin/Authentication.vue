@@ -1,24 +1,24 @@
 <template>
 <div class="m-2">
 <h4 class="bg-primary text-white text-center p-2">
-SportsStore Administration
+澳驰管理员页面
 </h4>
 <h4 v-if="showFailureMessage"
 class="bg-danger text-white text-center p-2 my-2">
 Authentication Failed. Please try again.
 </h4>
 <div class="form-group">
-<label>Username</label>
+<label>用户名</label>
 <input class="form-control" v-model="$v.username.$model">
 <validation-error v-bind:validation="$v.username" />
 </div>
 <div class="form-group">
-<label>Password</label>
+<label>密码</label>
 <input type="password" class="form-control" v-model="$v.password.$model">
 <validation-error v-bind:validation="$v.password" />
 </div>
 <div class="text-center">
-<button class="btn btn-primary" v-on:click="handleAuth">Log In</button>
+<button class="btn btn-primary" v-on:click="handleAuth">登录</button>
 </div>
 </div>
 </template>

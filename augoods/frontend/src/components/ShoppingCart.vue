@@ -41,7 +41,7 @@
     <div class="row">
       <div class="col">
         <div class="text-center">
-          <router-link to="/" class="btn btn-success m-1">
+          <router-link to="/" class="btn btn-success m-1" v-on:click.native="hideModal();">
             继续购物
           </router-link>
           <router-link to="/checkout" class="btn btn-primary m-1"
@@ -67,10 +67,14 @@ export default {
   methods: {
     ...mapMutations({
       change: "cart/changeQuantity",
-      remove: "cart/removeProduct"
+      remove: "cart/removeProduct",
     }),
+    ...mapMutations(["setShowHideDetail"]),
     handleQuantityChange(line, $event) {
       this.change({ line, quantity:$event});
+    },
+    hideModal() {
+      this.setShowHideDetail(false);
     }
   }
 }

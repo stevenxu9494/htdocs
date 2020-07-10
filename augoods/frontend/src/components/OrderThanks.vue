@@ -10,15 +10,23 @@
       <img style="height:30vh; margin:10px;" src=@/assets/AliReceiveQR.jpg>
     </div>
     <br>
-    <router-link to="/" class="btn btn-primary">返回商店</router-link>
+    <router-link to="/" class="btn btn-primary" v-on:click.native="hideModal();">返回商店</router-link>
   </div>
 </template>
 
 <script>
+  import { mapMutations } from "vuex";
+
   export default {
     computed: {
       orderId() {
         return this.$route.params.id
+      }
+    },
+    methods: {
+      ...mapMutations(["setShowHideDetail"]),
+      hideModal() {
+        this.setShowHideDetail(false);
       }
     }
   }
