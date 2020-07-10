@@ -40,7 +40,7 @@ export default new Vuex.Store({
     searchTerm: "",
     showSearch: true,
     currentProduct: {},
-    showProductDetail: false
+    showHideDetail: false
   },
   getters:{
     // productsFilteredByCategory: state => state.products
@@ -125,8 +125,8 @@ export default new Vuex.Store({
     setShowSearch(state, show) {
       state.showSearch = show;
     },
-    setShowProductDetail(state, show) {
-      state.showProductDetail = show;
+    setShowHideDetail(state, show) {
+      state.showHideDetail = show;
     },
     setSearchTerm(state, term) {
       state.searchTerm = term;

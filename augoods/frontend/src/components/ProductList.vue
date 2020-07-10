@@ -1,7 +1,7 @@
 <template>
   <div>
-    <div v-for="p in products" v-bind:key="p.id" class="card m-1 p-1 bg-light">
-      <div>
+    <div v-for="p in products" v-bind:key="p.id" class="card m-1 p-1 bg-light" >
+      <div v-on:click = "showModal();selectProduct(p);" style="cursor:pointer;">
         <img v-bind:src="p.thumbUrl" style="float:left;width:180px;height:200px;"/>
         <h4>
           {{p.name}}
@@ -17,7 +17,7 @@
             <i class="fa fa-shopping-cart" aria-hidden="true"></i>&nbsp;&nbsp;加入购物车
           </button>
         </div>
-      </div>
+      </div>      
     </div>
     <page-controls />
   </div>
@@ -40,10 +40,18 @@ export default {
     }
   },
   methods:{
+    ...mapMutations(["setShowHideDetail"]), 
+    ...mapMutations(["setCurrentProduct"]),
     ...mapMutations({ addProduct: "cart/addProduct" }),
     handleProductAdd(product) {
       this.addProduct(product);
       this.$router.push("/cart");
+    },
+    showModal() {
+      this.setShowHideDetail(true);
+    },
+    selectProduct(product){
+      this.setCurrentProduct(product);
     }
   }
 }
