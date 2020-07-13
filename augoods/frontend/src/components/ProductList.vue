@@ -2,7 +2,7 @@
   <div>
     <div v-for="p in products" v-bind:key="p.id" class="card m-1 p-1 bg-light" >
       <div v-on:click = "showModal();selectProduct(p);" style="cursor:pointer;">
-        <img v-bind:src="p.thumbUrl" style="float:left;width:180px;height:200px;"/>
+        <img v-bind:src="p.thumbUrl" style="float:left;width:30%;height:35%;"/>
         <h4>
           {{p.name}}
           <span class="badge badge-pill badge-primary float-right">
