@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'c677f83f-b754-4fed-ab7b-438e54188850'
   
   # Web app name
-  webAppName: ''
+  webAppName: 'Augoods'
   
   # Environment name
   environmentName: ''
