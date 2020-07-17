@@ -80,11 +80,11 @@
           <!-- <img id="detail" v-bind:src="currentProduct.imageUrl"> -->
           <div v-if="currentProduct.detailUrl.length > 0">
             <div v-for="url in currentProduct.detailUrl" :key="url">
-              <img id="detail" v-bind:src="url">
+              <img id="detail" v-bind:src="url" style="max-width:440px">
             </div>
           </div>
           <div v-else>
-            <img id="detail" v-bind:src="currentProduct.imageUrl">
+            <img id="detail" v-bind:src="currentProduct.imageUrl" style="max-width:440px">
           </div>          
         </div>
       </div>     
