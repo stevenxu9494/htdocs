@@ -5,17 +5,17 @@
         <img v-bind:src="p.thumbUrl" style="float:left;width:30%;height:35%;"/>
         <h4>
           {{p.name}}
+        </h4>
+        <br><br>
+        <div class="card-text bg-white p-1">
           <span class="badge badge-pill badge-primary float-right">
             {{ p.sellPrice | currency}}
           </span>
-        </h4>
-        <div class="card-text bg-white p-1">
           <p>品牌： {{ p.brand }}</p>
-          <p>重量： {{ p.netWeight }}g</p>
-          <p>销量： {{ p.price }}</p>
           <button class="btn btn-success btn-sm float-right" v-on:click="handleProductAdd(p)">
             <i class="fa fa-shopping-cart" aria-hidden="true"></i>&nbsp;&nbsp;加入购物车
           </button>
+          <p>重量： {{ p.netWeight }}g</p>
         </div>
       </div>      
     </div>

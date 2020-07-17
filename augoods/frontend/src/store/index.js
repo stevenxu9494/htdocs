@@ -29,6 +29,7 @@ export default new Vuex.Store({
   strict: false,
   modules: { cart: CartModule, orders: OrdersModule, auth: AuthModule },
   state: {
+    curHeight: 0,
     // products: [],
     categoriesData: [],
     allProducts: [],
@@ -128,6 +129,9 @@ export default new Vuex.Store({
     },
     setShowSearch(state, show) {
       state.showSearch = show;
+    },
+    setHeight(state, height) {
+      state.curHeight = height
     },
     setShowHideDetail(state, show) {
       state.showHideDetail = show;

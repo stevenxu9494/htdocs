@@ -76,15 +76,16 @@
     <!-- 显示隐藏详情 -->
     <div id="application">
       <div class="modal-overlay" v-if="showHideDetail" v-on:click="hideModal();">
-        <div class="modal-body">
+        <div class="modal-body" ref="modal1">
           <!-- <img id="detail" v-bind:src="currentProduct.imageUrl"> -->
-          <div v-if="currentProduct.imageUrl.length > 0">
-            <img id="detail" v-for="url in currentProduct.imageUrl" :key="url" v-bind:src="url">
+          <div v-if="currentProduct.detailUrl.length > 0">
+            <div v-for="url in currentProduct.detailUrl" :key="url">
+              <img id="detail" v-bind:src="url">
+            </div>
           </div>
           <div v-else>
-            <img id="detail" v-bind:src="currentProduct.thumbUrl">
-          </div>
-          
+            <img id="detail" v-bind:src="currentProduct.imageUrl">
+          </div>          
         </div>
       </div>     
     </div>
@@ -109,6 +110,8 @@ export default {
     hideModal() {
       this.setShowHideDetail(false);
     }
-  }
+  },
+
+  //   var curHeight = this.setHeight(window.getComputedStyle(this.$refs.modal1).height)
 }
 </script>

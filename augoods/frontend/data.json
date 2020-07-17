@@ -14,7 +14,19 @@
       "unit": "900G",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586249037379-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586249037379-s1080p",
-      "detail": ""
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9421902960031(new)-1.jpg",
+        "http://cdn.aumake.com/product_detail_psn9421902960031(new)-2.jpg",
+        "http://cdn.aumake.com/product_detail_psn9421902960031(new)-3.jpg",
+        "http://cdn.aumake.com/product_detail_psn9421902960031(new)-4.jpg",
+        "http://cdn.aumake.com/product_detail_psn9421902960031(new)-5.jpg",
+        "http://cdn.aumake.com/product_detail_psn9421902960031(new)-6.jpg",
+        "http://cdn.aumake.com/product_detail_psn9421902960031(new)-11.jpg",
+        "http://cdn.aumake.com/product_detail_psn9421902960031(new)-12.jpg",
+        "http://cdn.aumake.com/product_detail_psn9421902960031(new)-13.jpg",
+        "http://cdn.aumake.com/product_detail_psn9421902960031(new)-8.jpg",
+        "http://cdn.aumake.com/product_detail_psn9421902960031(new)-9.jpg",
+        "http://cdn.aumake.com/product_detail_psn9421902960031(new)-7.jpg",
+        "http://cdn.aumake.com/product_detail_psn9421902960031(new)-10.jpg"]
     },
     {
       "productID": "2",
@@ -6944,9 +6956,7 @@
       "netWeight": "1000",
       "unit": "大号",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586751337752-sthumb",
-      "imageUrl": [
-        "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586751337752-s1080p"
-      ]
+      "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586751337752-s1080p"
     },
     {
       "productID": "464",
@@ -6961,11 +6971,7 @@
       "netWeight": "1000",
       "unit": "单人",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586751345439-sthumb",
-      "imageUrl": [
-        "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586751345439-s1080p",
-        "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586751345439-s1080p",
-        "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586751345439-s1080p"
-      ]
+      "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586751345439-s1080p"
     }
   ],
   "categories": [
