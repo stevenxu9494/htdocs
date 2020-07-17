@@ -18,7 +18,7 @@ Vue.use(VueRouter);
 export default new VueRouter({
   mode: "history",
   routes: [
-    { path: "/", component: Store},
+    { path: "/", component: Store, meta:{title:"澳驰购物中心"}},
     { path: "/cart", component:ShoppingCart },
     { path: "/checkout", component: Checkout},
     { path: "/thanks/:id", name: 'thanksPage', component: OrderThanks},

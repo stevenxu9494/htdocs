@@ -5,6 +5,7 @@ Vue.config.productionTip = false
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "font-awesome/css/font-awesome.min.css";
+import VueWechatTitle from "vue-wechat-title";
 
 import store from "./store";
 import router from "./router";
@@ -14,6 +15,7 @@ Vue.filter("currency", (value) => new Intl.NumberFormat("zh-CN",
 { style: "currency", currency: "CNY"}).format(value));
 
 Vue.use(Vuelidate);
+Vue.use(VueWechatTitle);
 
 new Vue({
   render: h => h(App),

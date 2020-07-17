@@ -33,6 +33,9 @@
     
     padding: 25px;
   }
+  .modal-body{
+    text-align: center;
+  }
   .fade-enter-active,
   .fade-leave-active {
     transition: opacity .5s;
@@ -74,7 +77,14 @@
     <div id="application">
       <div class="modal-overlay" v-if="showHideDetail" v-on:click="hideModal();">
         <div class="modal-body">
-          <img id="detail" v-bind:src="currentProduct.imageUrl">
+          <!-- <img id="detail" v-bind:src="currentProduct.imageUrl"> -->
+          <div v-if="currentProduct.imageUrl.length > 0">
+            <img id="detail" v-for="url in currentProduct.imageUrl" :key="url" v-bind:src="url">
+          </div>
+          <div v-else>
+            <img id="detail" v-bind:src="currentProduct.thumbUrl">
+          </div>
+          
         </div>
       </div>     
     </div>
