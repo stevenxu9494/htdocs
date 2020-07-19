@@ -2,13 +2,13 @@
   <div>
     <div v-for="p in products" v-bind:key="p.id" class="card m-1 p-1 bg-light" >
       <div v-on:click = "showModal();selectProduct(p);" style="cursor:pointer;">
-        <img v-bind:src="p.thumbUrl" style="float:left;width:30%;height:75%;"/>
+        <img v-bind:src="p.thumbUrl" style="float:left;max-width:154px;max-height:154px;"/>
         <h5>
           {{p.name}}
         </h5>
         <br><br>
         <div class="card-text bg-white p-1" v-if="p.price!='0.00'">
-          <span class="badge badge-pill badge-primary float-right">
+          <span class="badge badge-pill badge-warning float-right">
             {{ p.sellPrice | currency}}
           </span>
           <p>品牌： {{ p.brand }}</p>
@@ -18,7 +18,7 @@
           <p>重量： {{ p.netWeight }}g</p>
         </div>
         <div class="card-text bg-white p-1" v-else>
-          <span class="badge badge-pill badge-primary float-right">
+          <span class="badge badge-pill badge-warning float-right">
             价格波动，请联系客服
           </span>
           <p>品牌： {{ p.brand }}</p>
