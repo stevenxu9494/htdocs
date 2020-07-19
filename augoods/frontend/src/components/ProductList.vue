@@ -7,7 +7,7 @@
           {{p.name}}
         </h5>
         <br><br>
-        <div class="card-text bg-white p-1">
+        <div class="card-text bg-white p-1" v-if="p.price!='0.00'">
           <span class="badge badge-pill badge-primary float-right">
             {{ p.sellPrice | currency}}
           </span>
@@ -15,6 +15,13 @@
           <button class="btn btn-success btn-sm float-right" v-on:click="handleProductAdd(p)">
             <i class="fa fa-shopping-cart" aria-hidden="true"></i>&nbsp;&nbsp;加入购物车
           </button>
+          <p>重量： {{ p.netWeight }}g</p>
+        </div>
+        <div class="card-text bg-white p-1" v-else>
+          <span class="badge badge-pill badge-primary float-right">
+            价格波动，请联系客服
+          </span>
+          <p>品牌： {{ p.brand }}</p>
           <p>重量： {{ p.netWeight }}g</p>
         </div>
       </div>      

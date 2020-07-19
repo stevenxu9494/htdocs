@@ -9,7 +9,7 @@
       </button>
     </div>
     <div class="m-1 text-center">
-      <p style="font-weight:bold;">扫描二维码添加客服</p>
+      <p style="font-weight:bold;">扫描微信二维码添加客服</p>
       <img style="max-width:100%; max-height:100%;" src="@/assets/wechatQR.jpg">
     </div>
     
