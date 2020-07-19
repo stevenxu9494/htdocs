@@ -1770,7 +1770,7 @@
       "unit": "30c",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807015251.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807015251.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9314807015251.jpg"]
     },
     {
       "productID": "111",
@@ -1786,7 +1786,7 @@
       "unit": "60粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9350634002859_1.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9350634002859_1.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9350634002859-1.jpg","http://cdn.aumake.com/product_detail_psn9350634002859-2.jpg","http://cdn.aumake.com/product_detail_psn9350634002859-3.jpg","http://cdn.aumake.com/product_detail_psn9350634002859-4.jpg","http://cdn.aumake.com/product_detail_psn9350634002859-5.jpg","http://cdn.aumake.com/product_detail_psn9350634002859-6.jpg","http://cdn.aumake.com/product_detail_psn9350634002859-7.jpg","http://cdn.aumake.com/product_detail_psn9350634002859-8.jpg","http://cdn.aumake.com/product_detail_psn9350634002859-9.jpg","http://cdn.aumake.com/product_detail_psn9350634002859-10.jpg","http://cdn.aumake.com/product_detail_psn9350634002859-11.jpg","http://cdn.aumake.com/product_detail_psn9350634002859-12.jpg","http://cdn.aumake.com/product_detail_psn9350634002859-13.jpg","http://cdn.aumake.com/product_detail_psn9350634002859-15.jpg"]
     },
     {
       "productID": "112",
@@ -1802,7 +1802,7 @@
       "unit": "400粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9300807294536_1.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9300807294536_1.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9300807294536.jpg"]
     },
     {
       "productID": "113",
@@ -1818,7 +1818,7 @@
       "unit": "300粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316254891419.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316254891419.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1566368126648"]
     },
     {
       "productID": "114",
@@ -1834,7 +1834,7 @@
       "unit": "150粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9344949001294_1.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9344949001294_1.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9344949001294.jpg"]
     },
     {
       "productID": "115",
@@ -1850,7 +1850,7 @@
       "unit": "400粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9300807287354.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9300807287354.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1568959101771"]
     },
     {
       "productID": "116",
@@ -1866,7 +1866,7 @@
       "unit": "50片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586939238012-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586939238012-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589967203464"]
     },
     {
       "productID": "117",
@@ -1882,7 +1882,7 @@
       "unit": "400g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9322635007812.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9322635007812.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "118",
@@ -1898,7 +1898,7 @@
       "unit": "200粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144982659-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144982659-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "119",
@@ -1914,7 +1914,7 @@
       "unit": "100片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586331012620-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586331012620-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1566371039569"]
     },
     {
       "productID": "120",
@@ -1930,7 +1930,7 @@
       "unit": "120片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586939326561-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586939326561-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "121",
@@ -1946,7 +1946,7 @@
       "unit": "180片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1590389172370-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1590389172370-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9311770597319-1.jpg","http://cdn.aumake.com/product_detail_psn9311770597319-2.jpg","http://cdn.aumake.com/product_detail_psn9311770597319-3.jpg","http://cdn.aumake.com/product_detail_psn9311770597319-4.jpg","http://cdn.aumake.com/product_detail_psn9311770597319-5.jpg","http://cdn.aumake.com/product_detail_psn9311770597319-15.jpg","http://cdn.aumake.com/product_detail_psn9311770597319-16.jpg","http://cdn.aumake.com/product_detail_psn9311770597319-14.jpg","http://cdn.aumake.com/product_detail_psn9311770597319-10.jpg","http://cdn.aumake.com/product_detail_psn9311770597319-6.jpg","http://cdn.aumake.com/product_detail_psn9311770597319-7.jpg","http://cdn.aumake.com/product_detail_psn9311770597319-11.jpg","http://cdn.aumake.com/product_detail_psn9311770597319-13.jpg","http://cdn.aumake.com/product_detail_psn9311770597319-9.jpg","http://cdn.aumake.com/product_detail_psn9311770597319-8.jpg","http://cdn.aumake.com/product_detail_psn9311770597319-12.jpg"]
     },
     {
       "productID": "122",
@@ -1962,7 +1962,7 @@
       "unit": "500ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586320227242-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586320227242-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348895000141.png"]
     },
     {
       "productID": "123",
@@ -1978,7 +1978,7 @@
       "unit": "400粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1592470570966-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1592470570966-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1592470559894"]
     },
     {
       "productID": "124",
@@ -1994,7 +1994,7 @@
       "unit": "100片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588140507833-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588140507833-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589966475214"]
     },
     {
       "productID": "125",
@@ -2010,7 +2010,7 @@
       "unit": "200片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316254892232.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316254892232.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9316254892232.jpg"]
     },
     {
       "productID": "126",
@@ -2026,7 +2026,7 @@
       "unit": "84片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn4004148324611_1.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn4004148324611_1.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn4004148324611.jpg"]
     },
     {
       "productID": "127",
@@ -2042,7 +2042,7 @@
       "unit": "150粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144840954-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144840954-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "128",
@@ -2058,7 +2058,7 @@
       "unit": "benifiber",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1561619357076-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1561619357076-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1568959900142"]
     },
     {
       "productID": "129",
@@ -2074,7 +2074,7 @@
       "unit": "200ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143461485-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143461485-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9310488023141-1.jpg","http://cdn.aumake.com/product_detail_psn9310488023141-2.jpg","http://cdn.aumake.com/product_detail_psn9310488023141-3.jpg","http://cdn.aumake.com/product_detail_psn9310488023141-4.jpg","http://cdn.aumake.com/product_detail_psn9310488023141-5.jpg","http://cdn.aumake.com/product_detail_psn9310488023141-6.jpg"]
     },
     {
       "productID": "130",
@@ -2090,7 +2090,7 @@
       "unit": "190粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1592468868471-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1592468868471-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9300807287323-1.jpg","http://cdn.aumake.com/product_detail_psn9300807287323-2.jpg","http://cdn.aumake.com/product_detail_psn9300807287323-3.jpg","http://cdn.aumake.com/product_detail_psn9300807287323-4.jpg","http://cdn.aumake.com/product_detail_psn9300807287323-5.jpg","http://cdn.aumake.com/product_detail_psn9300807287323-6.jpg"]
     },
     {
       "productID": "131",
@@ -2106,7 +2106,7 @@
       "unit": "60片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586331591498-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586331591498-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "132",
@@ -2122,7 +2122,7 @@
       "unit": "50粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807060930.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807060930.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9314807060930.jpg"]
     },
     {
       "productID": "133",
@@ -2138,7 +2138,7 @@
       "unit": "375g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807007584.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807007584.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1587700783768"]
     },
     {
       "productID": "134",
@@ -2154,7 +2154,7 @@
       "unit": "500",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807006945.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807006945.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9314807006945.jpg"]
     },
     {
       "productID": "135",
@@ -2170,7 +2170,7 @@
       "unit": "60tab",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565225986745-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565225986745-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589966499686"]
     },
     {
       "productID": "136",
@@ -2186,7 +2186,7 @@
       "unit": "50tab",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144704565-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144704565-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589966400871"]
     },
     {
       "productID": "137",
@@ -2202,7 +2202,7 @@
       "unit": "300tabs",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589779256754-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589779256754-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1567992500386"]
     },
     {
       "productID": "138",
@@ -2218,7 +2218,7 @@
       "unit": "500ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1567497588851-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1567497588851-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1567497816545","http://cdn.aumake.com/good_details_1567497831243","http://cdn.aumake.com/good_details_1567497844598","http://cdn.aumake.com/good_details_1567497855010","http://cdn.aumake.com/good_details_1567497860413"]
     },
     {
       "productID": "139",
@@ -2234,7 +2234,7 @@
       "unit": "200粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316254892911.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316254892911.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9316254892911.jpg"]
     },
     {
       "productID": "140",
@@ -2250,7 +2250,7 @@
       "unit": "150片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589779298067-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589779298067-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9311770592505.jpg"]
     },
     {
       "productID": "141",
@@ -2266,7 +2266,7 @@
       "unit": "30粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586330909797-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586330909797-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9311770591690-1.jpg","http://cdn.aumake.com/product_detail_psn9311770591690-2.jpg","http://cdn.aumake.com/product_detail_psn9311770591690-3.jpg","http://cdn.aumake.com/product_detail_psn9311770591690-4.jpg","http://cdn.aumake.com/product_detail_psn9311770591690-5.jpg"]
     },
     {
       "productID": "142",
@@ -2282,7 +2282,7 @@
       "unit": "90片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143262880-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143262880-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1594287181920"]
     },
     {
       "productID": "143",
@@ -2298,7 +2298,7 @@
       "unit": "200ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9329771000790_1.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9329771000790_1.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9329771000790-1.png","http://cdn.aumake.com/product_detail_psn9329771000790-2.png","http://cdn.aumake.com/product_detail_psn9329771000790-3.png","http://cdn.aumake.com/product_detail_psn9329771000790-5.png","http://cdn.aumake.com/product_detail_psn9329771000790-6.png","http://cdn.aumake.com/product_detail_psn9329771000790-9.png","http://cdn.aumake.com/product_detail_psn9329771000790-10.png","http://cdn.aumake.com/product_detail_psn9329771000790-8.png","http://cdn.aumake.com/product_detail_psn9329771000790-7.png"]
     },
     {
       "productID": "144",
@@ -2314,7 +2314,7 @@
       "unit": "30cap",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn93554305.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn93554305.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1594286873926"]
     },
     {
       "productID": "145",
@@ -2330,7 +2330,7 @@
       "unit": "120片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144734898-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144734898-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "146",
@@ -2346,7 +2346,7 @@
       "unit": "50粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144954531-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144954531-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9311770597456.png"]
     },
     {
       "productID": "147",
@@ -2362,7 +2362,7 @@
       "unit": "500g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586331118548-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586331118548-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "148",
@@ -2378,7 +2378,7 @@
       "unit": "300g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316254892485_1.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316254892485_1.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9316254892485.jpg"]
     },
     {
       "productID": "149",
@@ -2394,7 +2394,7 @@
       "unit": "30支",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9315195305061.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9315195305061.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9315195305061-1.jpg","http://cdn.aumake.com/product_detail_psn9315195305061-2.jpg","http://cdn.aumake.com/product_detail_psn9315195305061-3.jpg","http://cdn.aumake.com/product_detail_psn9315195305061-4.jpg","http://cdn.aumake.com/product_detail_psn9315195305061-5.jpg","http://cdn.aumake.com/product_detail_psn9315195305061-8.jpg","http://cdn.aumake.com/product_detail_psn9315195305061-9.jpg","http://cdn.aumake.com/product_detail_psn9315195305061-7.jpg","http://cdn.aumake.com/product_detail_psn9315195305061-6.jpg"]
     },
     {
       "productID": "150",
@@ -2410,7 +2410,7 @@
       "unit": "50片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586329661365-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586329661365-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1594286661924"]
     },
     {
       "productID": "151",
@@ -2426,7 +2426,7 @@
       "unit": "15袋",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9310214031051.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9310214031051.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9310214031051-1.jpg","http://cdn.aumake.com/product_detail_psn9310214031051-2.jpg","http://cdn.aumake.com/product_detail_psn9310214031051-3.jpg","http://cdn.aumake.com/product_detail_psn9310214031051-4.jpg"]
     },
     {
       "productID": "152",
@@ -2442,7 +2442,7 @@
       "unit": "300片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316254898470.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316254898470.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9316254898470.png"]
     },
     {
       "productID": "153",
@@ -2458,7 +2458,7 @@
       "unit": "60粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807025267.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807025267.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9314807025267.jpg"]
     },
     {
       "productID": "154",
@@ -2474,7 +2474,7 @@
       "unit": "40片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588141896234-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588141896234-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn93807432.jpg"]
     },
     {
       "productID": "155",
@@ -2490,7 +2490,7 @@
       "unit": "60粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807022860_1.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807022860_1.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9314807022860-1.jpg","http://cdn.aumake.com/product_detail_psn9314807022860-2.jpg","http://cdn.aumake.com/product_detail_psn9314807022860-3.jpg","http://cdn.aumake.com/product_detail_psn9314807022860-4.jpg","http://cdn.aumake.com/product_detail_psn9314807022860-5.jpg","http://cdn.aumake.com/product_detail_psn9314807022860-9.jpg","http://cdn.aumake.com/product_detail_psn9314807022860-8.jpg","http://cdn.aumake.com/product_detail_psn9314807022860-10.jpg","http://cdn.aumake.com/product_detail_psn9314807022860-12.jpg","http://cdn.aumake.com/product_detail_psn9314807022860-11.jpg","http://cdn.aumake.com/product_detail_psn9314807022860-6.jpg","http://cdn.aumake.com/product_detail_psn9314807022860-7.jpg"]
     },
     {
       "productID": "156",
@@ -2506,7 +2506,7 @@
       "unit": "60粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807022839.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807022839.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9314807022839-1.jpg","http://cdn.aumake.com/product_detail_psn9314807022839-2.jpg","http://cdn.aumake.com/product_detail_psn9314807022839-3.jpg","http://cdn.aumake.com/product_detail_psn9314807022839-4.jpg","http://cdn.aumake.com/product_detail_psn9314807022839-5.jpg","http://cdn.aumake.com/product_detail_psn9314807022839-7.jpg","http://cdn.aumake.com/product_detail_psn9314807022839-8.jpg","http://cdn.aumake.com/product_detail_psn9314807022839-11.jpg","http://cdn.aumake.com/product_detail_psn9314807022839-6.jpg","http://cdn.aumake.com/product_detail_psn9314807022839-10.jpg","http://cdn.aumake.com/product_detail_psn9314807022839-9.jpg"]
     },
     {
       "productID": "157",
@@ -2522,7 +2522,7 @@
       "unit": "60粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807038298.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807038298.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9314807038298-1.jpg","http://cdn.aumake.com/product_detail_psn9314807038298-2.jpg"]
     },
     {
       "productID": "158",
@@ -2538,7 +2538,7 @@
       "unit": "60粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807025526.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807025526.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9314807025526-1.jpg","http://cdn.aumake.com/product_detail_psn9314807025526-2.jpg","http://cdn.aumake.com/product_detail_psn9314807025526-3.jpg","http://cdn.aumake.com/product_detail_psn9314807025526-4.jpg","http://cdn.aumake.com/product_detail_psn9314807025526-5.jpg","http://cdn.aumake.com/product_detail_psn9314807025526-7.jpg","http://cdn.aumake.com/product_detail_psn9314807025526-8.jpg","http://cdn.aumake.com/product_detail_psn9314807025526-6.jpg"]
     },
     {
       "productID": "159",
@@ -2554,7 +2554,7 @@
       "unit": "50粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807042516.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807042516.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9314807042516.jpg"]
     },
     {
       "productID": "160",
@@ -2570,7 +2570,7 @@
       "unit": "60pastilles",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1563424483861-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1563424483861-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "161",
@@ -2586,7 +2586,7 @@
       "unit": "300片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316254892768.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316254892768.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9316254892768.jpg"]
     },
     {
       "productID": "162",
@@ -2602,7 +2602,7 @@
       "unit": "100粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316254892973.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316254892973.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9316254892973.jpg"]
     },
     {
       "productID": "163",
@@ -2618,7 +2618,7 @@
       "unit": "40片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9310214030009.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9310214030009.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9310214030009.jpg"]
     },
     {
       "productID": "164",
@@ -2634,7 +2634,7 @@
       "unit": "40片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586331171137-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586331171137-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9310214000118.jpg"]
     },
     {
       "productID": "165",
@@ -2650,7 +2650,7 @@
       "unit": "200粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586327733205-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586327733205-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582073921230","http://cdn.aumake.com/good_details_1582073924976","http://cdn.aumake.com/good_details_1582092616177"]
     },
     {
       "productID": "166",
@@ -2666,7 +2666,7 @@
       "unit": "200粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586327773797-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586327773797-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582074004798","http://cdn.aumake.com/good_details_1582074009431","http://cdn.aumake.com/good_details_1582092637530"]
     },
     {
       "productID": "167",
@@ -2682,7 +2682,7 @@
       "unit": "400粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586327820736-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586327820736-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582074004798","http://cdn.aumake.com/good_details_1582074009431","http://cdn.aumake.com/good_details_1582092637530"]
     },
     {
       "productID": "168",
@@ -2698,7 +2698,7 @@
       "unit": "60粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586320512996-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586320512996-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582073477002","http://cdn.aumake.com/good_details_1582073480881","http://cdn.aumake.com/good_details_1582092351386"]
     },
     {
       "productID": "169",
@@ -2714,7 +2714,7 @@
       "unit": "1500mg",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144921750-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144921750-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9311770600385.jpg"]
     },
     {
       "productID": "170",
@@ -2730,7 +2730,7 @@
       "unit": "100粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589529020750-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589529020750-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589529031555"]
     },
     {
       "productID": "171",
@@ -2746,7 +2746,7 @@
       "unit": "120粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1590117011706-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1590117011706-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1590117021137"]
     },
     {
       "productID": "172",
@@ -2762,7 +2762,7 @@
       "unit": "200粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589011588387-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589011588387-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1590572653550"]
     },
     {
       "productID": "173",
@@ -2778,7 +2778,7 @@
       "unit": "90粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1585884978912-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1585884978912-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1585885003757","http://cdn.aumake.com/good_details_1585885007953"]
     },
     {
       "productID": "174",
@@ -2794,7 +2794,7 @@
       "unit": "180cap",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586328320715-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586328320715-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582154052346","http://cdn.aumake.com/good_details_1582154056637","http://cdn.aumake.com/good_details_1582154059117"]
     },
     {
       "productID": "175",
@@ -2810,7 +2810,7 @@
       "unit": "60 cap",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586328268299-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586328268299-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582154576332","http://cdn.aumake.com/good_details_1582154579732","http://cdn.aumake.com/good_details_1582154582052"]
     },
     {
       "productID": "176",
@@ -2826,7 +2826,7 @@
       "unit": "150 TABS",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1582697253246-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1582697253246-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589965950460"]
     },
     {
       "productID": "177",
@@ -2842,7 +2842,7 @@
       "unit": "300g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1590389496014-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1590389496014-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1590572795368"]
     },
     {
       "productID": "178",
@@ -2858,7 +2858,7 @@
       "unit": "180片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586329494526-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586329494526-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582886717919","http://cdn.aumake.com/good_details_1583281941793"]
     },
     {
       "productID": "179",
@@ -2874,7 +2874,7 @@
       "unit": "120粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586329448071-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586329448071-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582887063457","http://cdn.aumake.com/good_details_1583281955157"]
     },
     {
       "productID": "180",
@@ -2890,7 +2890,7 @@
       "unit": "180粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586329474309-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586329474309-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582887157909","http://cdn.aumake.com/good_details_1583281965660"]
     },
     {
       "productID": "181",
@@ -2906,7 +2906,7 @@
       "unit": "120粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586331475165-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586331475165-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1583309263326","http://cdn.aumake.com/good_details_1583309283229"]
     },
     {
       "productID": "182",
@@ -2922,7 +2922,7 @@
       "unit": "60c",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586320287762-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586320287762-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "183",
@@ -2938,7 +2938,7 @@
       "unit": "30粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1585557907717-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1585557907717-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1585557915010"]
     },
     {
       "productID": "184",
@@ -2954,7 +2954,7 @@
       "unit": "15袋",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1570888684774-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1570888684774-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1570888694365","http://cdn.aumake.com/good_details_1570888697752","http://cdn.aumake.com/good_details_1570888701446"]
     },
     {
       "productID": "185",
@@ -2970,7 +2970,7 @@
       "unit": "60片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586918228447-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586918228447-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "186",
@@ -2986,7 +2986,7 @@
       "unit": "60 cap",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586918249872-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586918249872-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582867397514"]
     },
     {
       "productID": "187",
@@ -3002,7 +3002,7 @@
       "unit": "30ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586328020384-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586328020384-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1583899069194","http://cdn.aumake.com/good_details_1583899073853","http://cdn.aumake.com/good_details_1583899077758"]
     },
     {
       "productID": "188",
@@ -3018,7 +3018,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1573182246363-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1573182246363-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1573182255290","http://cdn.aumake.com/good_details_1573182257434","http://cdn.aumake.com/good_details_1573182259460"]
     },
     {
       "productID": "189",
@@ -3034,7 +3034,7 @@
       "unit": "120 cap",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586328241889-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586328241889-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582153911242","http://cdn.aumake.com/good_details_1582153915375","http://cdn.aumake.com/good_details_1582153917862"]
     },
     {
       "productID": "190",
@@ -3050,7 +3050,7 @@
       "unit": "90cap",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586328049098-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586328049098-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582591120828","http://cdn.aumake.com/good_details_1582591126133","http://cdn.aumake.com/good_details_1582591131262"]
     },
     {
       "productID": "191",
@@ -3066,7 +3066,7 @@
       "unit": "120 cap",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586328414002-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586328414002-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582153975326","http://cdn.aumake.com/good_details_1582153978988","http://cdn.aumake.com/good_details_1582153981305"]
     },
     {
       "productID": "192",
@@ -3082,7 +3082,7 @@
       "unit": "60 cap",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586328296841-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586328296841-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582154283960","http://cdn.aumake.com/good_details_1582154287667","http://cdn.aumake.com/good_details_1582154289995"]
     },
     {
       "productID": "193",
@@ -3098,7 +3098,7 @@
       "unit": "90cap",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586328213562-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586328213562-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582154126998","http://cdn.aumake.com/good_details_1582154130238","http://cdn.aumake.com/good_details_1582154132614"]
     },
     {
       "productID": "194",
@@ -3114,7 +3114,7 @@
       "unit": "60粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586330306953-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586330306953-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582153803249","http://cdn.aumake.com/good_details_1582153806796","http://cdn.aumake.com/good_details_1582153809213"]
     },
     {
       "productID": "195",
@@ -3130,7 +3130,7 @@
       "unit": "5g*14袋",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1572567061305-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1572567061305-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1572567039638"]
     },
     {
       "productID": "196",
@@ -3146,7 +3146,7 @@
       "unit": "60粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589505711688-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589505711688-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1594094276183"]
     },
     {
       "productID": "197",
@@ -3162,7 +3162,7 @@
       "unit": "4caps",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1582780727522-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1582780727522-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589966088330"]
     },
     {
       "productID": "198",
@@ -3178,7 +3178,7 @@
       "unit": "20粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1579155359196-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1579155359196-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589966151635"]
     },
     {
       "productID": "199",
@@ -3194,7 +3194,7 @@
       "unit": "60片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586918268003-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586918268003-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "200",
@@ -3210,7 +3210,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421903535245.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421903535245.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9421903535245.jpg"]
     },
     {
       "productID": "201",
@@ -3226,7 +3226,7 @@
       "unit": "50克",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9350634008196_1.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9350634008196_1.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9350634008196.jpg"]
     },
     {
       "productID": "202",
@@ -3242,7 +3242,7 @@
       "unit": "400ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421905162135.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421905162135.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9421905162135.jpg"]
     },
     {
       "productID": "203",
@@ -3258,7 +3258,7 @@
       "unit": "30ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752280212-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752280212-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9352563001255-2.jpg","http://cdn.aumake.com/product_detail_psn9352563001255-1.jpg","http://cdn.aumake.com/product_detail_psn9352563001255-3.jpg","http://cdn.aumake.com/product_detail_psn9352563001255-4.jpg","http://cdn.aumake.com/product_detail_psn9352563001255-5.jpg","http://cdn.aumake.com/product_detail_psn9352563001255-6.jpg","http://cdn.aumake.com/product_detail_psn9352563001255-7.jpg"]
     },
     {
       "productID": "204",
@@ -3274,7 +3274,7 @@
       "unit": "500G",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314839012716.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314839012716.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9314839012716-1.png","http://cdn.aumake.com/product_detail_psn9314839012716-2.png","http://cdn.aumake.com/product_detail_psn9314839012716-3.png"]
     },
     {
       "productID": "205",
@@ -3290,7 +3290,7 @@
       "unit": "70g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144518167-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144518167-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9327768001515.jpg"]
     },
     {
       "productID": "206",
@@ -3306,7 +3306,7 @@
       "unit": "50ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752858220-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752858220-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1586527049630"]
     },
     {
       "productID": "207",
@@ -3322,7 +3322,7 @@
       "unit": "50ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1569735879300-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1569735879300-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "208",
@@ -3338,7 +3338,7 @@
       "unit": "30g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752893505-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752893505-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589275845900"]
     },
     {
       "productID": "209",
@@ -3354,7 +3354,7 @@
       "unit": "250ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753113904-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753113904-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn93232180-1.jpg","http://cdn.aumake.com/product_detail_psn93232180-2.jpg","http://cdn.aumake.com/product_detail_psn93232180-3.jpg","http://cdn.aumake.com/product_detail_psn93232180-5.jpg","http://cdn.aumake.com/product_detail_psn93232180-4.jpg","http://cdn.aumake.com/product_detail_psn93232180-7.jpg","http://cdn.aumake.com/product_detail_psn93232180-6.jpg","http://cdn.aumake.com/product_detail_psn93232180-8.jpg"]
     },
     {
       "productID": "210",
@@ -3370,7 +3370,7 @@
       "unit": "120ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143625478-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143625478-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348107001492.jpg"]
     },
     {
       "productID": "211",
@@ -3386,7 +3386,7 @@
       "unit": "300ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753062866-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753062866-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9351419000138.jpg"]
     },
     {
       "productID": "212",
@@ -3402,7 +3402,7 @@
       "unit": "300ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753073007-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753073007-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9351419000121.jpg"]
     },
     {
       "productID": "213",
@@ -3418,7 +3418,7 @@
       "unit": "50ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752846064-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752846064-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9327768000792.jpg"]
     },
     {
       "productID": "214",
@@ -3434,7 +3434,7 @@
       "unit": "260ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752383706-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752383706-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9351419000015-1.jpg","http://cdn.aumake.com/product_detail_psn9351419000015-2.jpg","http://cdn.aumake.com/product_detail_psn9351419000015-3.jpg","http://cdn.aumake.com/product_detail_psn9351419000015-4.jpg","http://cdn.aumake.com/product_detail_psn9351419000015-5.jpg"]
     },
     {
       "productID": "215",
@@ -3450,7 +3450,7 @@
       "unit": "150g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9323245004567.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9323245004567.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9323245004567.jpg"]
     },
     {
       "productID": "216",
@@ -3466,7 +3466,7 @@
       "unit": "50g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9323245003065.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9323245003065.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9323245003065.jpg"]
     },
     {
       "productID": "217",
@@ -3482,7 +3482,7 @@
       "unit": "200ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1564474048234-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1564474048234-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn41167662014-1.jpg","http://cdn.aumake.com/product_detail_psn41167662014-2.jpg","http://cdn.aumake.com/product_detail_psn41167662014-3.jpg","http://cdn.aumake.com/product_detail_psn41167662014-4.jpg"]
     },
     {
       "productID": "218",
@@ -3498,7 +3498,7 @@
       "unit": "200ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1564475724750-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1564475724750-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn41167660317-1.jpg","http://cdn.aumake.com/product_detail_psn41167660317-2.jpg","http://cdn.aumake.com/product_detail_psn41167660317-3.jpg","http://cdn.aumake.com/product_detail_psn41167660317-4.jpg"]
     },
     {
       "productID": "219",
@@ -3514,7 +3514,7 @@
       "unit": "500g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752960633-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752960633-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9415991230175.jpg"]
     },
     {
       "productID": "220",
@@ -3530,7 +3530,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1587015417384-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1587015417384-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9415991240174-1.jpg","http://cdn.aumake.com/product_detail_psn9415991240174-2.jpg","http://cdn.aumake.com/product_detail_psn9415991240174-3.jpg","http://cdn.aumake.com/product_detail_psn9415991240174-4.jpg","http://cdn.aumake.com/product_detail_psn9415991240174-5.jpg","http://cdn.aumake.com/product_detail_psn9415991240174-9.jpg","http://cdn.aumake.com/product_detail_psn9415991240174-8.jpg","http://cdn.aumake.com/product_detail_psn9415991240174-6.jpg","http://cdn.aumake.com/product_detail_psn9415991240174-10.jpg","http://cdn.aumake.com/product_detail_psn9415991240174-7.jpg"]
     },
     {
       "productID": "221",
@@ -3546,7 +3546,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752940830-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752940830-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9415991240273-1.jpg","http://cdn.aumake.com/product_detail_psn9415991240273-2.jpg","http://cdn.aumake.com/product_detail_psn9415991240273-3.jpg","http://cdn.aumake.com/product_detail_psn9415991240273-4.jpg","http://cdn.aumake.com/product_detail_psn9415991240273-5.jpg","http://cdn.aumake.com/product_detail_psn9415991240273-6.jpg","http://cdn.aumake.com/product_detail_psn9415991240273-10.jpg","http://cdn.aumake.com/product_detail_psn9415991240273-9.jpg","http://cdn.aumake.com/product_detail_psn9415991240273-7.jpg","http://cdn.aumake.com/product_detail_psn9415991240273-8.jpg"]
     },
     {
       "productID": "222",
@@ -3562,7 +3562,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752980736-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752980736-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9415991240143-1.jpg","http://cdn.aumake.com/product_detail_psn9415991240143-2.jpg","http://cdn.aumake.com/product_detail_psn9415991240143-3.jpg","http://cdn.aumake.com/product_detail_psn9415991240143-4.jpg","http://cdn.aumake.com/product_detail_psn9415991240143-5.jpg","http://cdn.aumake.com/product_detail_psn9415991240143-7.jpg","http://cdn.aumake.com/product_detail_psn9415991240143-8.jpg","http://cdn.aumake.com/product_detail_psn9415991240143-10.jpg","http://cdn.aumake.com/product_detail_psn9415991240143-6.jpg","http://cdn.aumake.com/product_detail_psn9415991240143-9.jpg"]
     },
     {
       "productID": "223",
@@ -3578,7 +3578,7 @@
       "unit": "110g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752921691-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752921691-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9415991240211-1.jpg","http://cdn.aumake.com/product_detail_psn9415991240211-2.jpg","http://cdn.aumake.com/product_detail_psn9415991240211-3.jpg","http://cdn.aumake.com/product_detail_psn9415991240211-4.jpg","http://cdn.aumake.com/product_detail_psn9415991240211-5.jpg","http://cdn.aumake.com/product_detail_psn9415991240211-10.jpg","http://cdn.aumake.com/product_detail_psn9415991240211-9.jpg","http://cdn.aumake.com/product_detail_psn9415991240211-8.jpg","http://cdn.aumake.com/product_detail_psn9415991240211-7.jpg","http://cdn.aumake.com/product_detail_psn9415991240211-6.jpg"]
     },
     {
       "productID": "224",
@@ -3594,7 +3594,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752998940-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752998940-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9415991240204-1.jpg","http://cdn.aumake.com/product_detail_psn9415991240204-2.jpg","http://cdn.aumake.com/product_detail_psn9415991240204-3.jpg","http://cdn.aumake.com/product_detail_psn9415991240204-4.jpg","http://cdn.aumake.com/product_detail_psn9415991240204-5.jpg","http://cdn.aumake.com/product_detail_psn9415991240204-7.jpg","http://cdn.aumake.com/product_detail_psn9415991240204-9.jpg","http://cdn.aumake.com/product_detail_psn9415991240204-10.jpg","http://cdn.aumake.com/product_detail_psn9415991240204-8.jpg","http://cdn.aumake.com/product_detail_psn9415991240204-6.jpg"]
     },
     {
       "productID": "225",
@@ -3610,7 +3610,7 @@
       "unit": "250ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9310320002099_1.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9310320002099_1.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9310320002099-1.jpg","http://cdn.aumake.com/product_detail_psn9310320002099-2.jpg","http://cdn.aumake.com/product_detail_psn9310320002099-3.jpg","http://cdn.aumake.com/product_detail_psn9310320002099-4.jpg","http://cdn.aumake.com/product_detail_psn9310320002099-5.jpg","http://cdn.aumake.com/product_detail_psn9310320002099-6.jpg"]
     },
     {
       "productID": "226",
@@ -3626,7 +3626,7 @@
       "unit": "250ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9310320002105.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9310320002105.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9310320002105-1.jpg","http://cdn.aumake.com/product_detail_psn9310320002105-2.jpg","http://cdn.aumake.com/product_detail_psn9310320002105-3.jpg","http://cdn.aumake.com/product_detail_psn9310320002105-4.jpg","http://cdn.aumake.com/product_detail_psn9310320002105-5.jpg","http://cdn.aumake.com/product_detail_psn9310320002105-6.jpg","http://cdn.aumake.com/product_detail_psn9310320002105-8.jpg","http://cdn.aumake.com/product_detail_psn9310320002105-7.jpg"]
     },
     {
       "productID": "227",
@@ -3642,7 +3642,7 @@
       "unit": "120g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316254017154.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316254017154.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9316254017154.jpg"]
     },
     {
       "productID": "228",
@@ -3658,7 +3658,7 @@
       "unit": "250ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807018733.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807018733.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9314807018733.jpg"]
     },
     {
       "productID": "229",
@@ -3674,7 +3674,7 @@
       "unit": "250ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807018726.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314807018726.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9314807018726-1.jpg","http://cdn.aumake.com/product_detail_psn9314807018726-2.jpg","http://cdn.aumake.com/product_detail_psn9314807018726-4.jpg","http://cdn.aumake.com/product_detail_psn9314807018726-5.jpg","http://cdn.aumake.com/product_detail_psn9314807018726-3.jpg","http://cdn.aumake.com/product_detail_psn9314807018726-6.jpg"]
     },
     {
       "productID": "230",
@@ -3690,7 +3690,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9349254004053.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9349254004053.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9349254004053.jpg"]
     },
     {
       "productID": "231",
@@ -3706,7 +3706,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9300607420074_1.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9300607420074_1.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9300607420074.jpg"]
     },
     {
       "productID": "232",
@@ -3722,7 +3722,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9351524009057.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9351524009057.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9351524009057.jpg"]
     },
     {
       "productID": "233",
@@ -3738,7 +3738,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9349254002011.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9349254002011.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9349254002011-1.jpg","http://cdn.aumake.com/product_detail_psn9349254002011-2.jpg","http://cdn.aumake.com/product_detail_psn9349254002011-3.jpg","http://cdn.aumake.com/product_detail_psn9349254002011-4.jpg","http://cdn.aumake.com/product_detail_psn9349254002011-5.jpg","http://cdn.aumake.com/product_detail_psn9349254002011-6.jpg","http://cdn.aumake.com/product_detail_psn9349254002011-7.jpg"]
     },
     {
       "productID": "234",
@@ -3754,7 +3754,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9349254002028.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9349254002028.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9349254002028-1.jpg","http://cdn.aumake.com/product_detail_psn9349254002028-2.jpg","http://cdn.aumake.com/product_detail_psn9349254002028-3.jpg","http://cdn.aumake.com/product_detail_psn9349254002028-4.jpg","http://cdn.aumake.com/product_detail_psn9349254002028-5.jpg","http://cdn.aumake.com/product_detail_psn9349254002028-9.jpg","http://cdn.aumake.com/product_detail_psn9349254002028-8.jpg","http://cdn.aumake.com/product_detail_psn9349254002028-6.jpg","http://cdn.aumake.com/product_detail_psn9349254002028-7.jpg"]
     },
     {
       "productID": "235",
@@ -3770,7 +3770,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9349254002042.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9349254002042.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9349254002042-1.jpg","http://cdn.aumake.com/product_detail_psn9349254002042-3.jpg","http://cdn.aumake.com/product_detail_psn9349254002042-2.jpg","http://cdn.aumake.com/product_detail_psn9349254002042-4.jpg","http://cdn.aumake.com/product_detail_psn9349254002042-5.jpg","http://cdn.aumake.com/product_detail_psn9349254002042-10.jpg","http://cdn.aumake.com/product_detail_psn9349254002042-9.jpg","http://cdn.aumake.com/product_detail_psn9349254002042-11.jpg","http://cdn.aumake.com/product_detail_psn9349254002042-8.jpg","http://cdn.aumake.com/product_detail_psn9349254002042-6.jpg","http://cdn.aumake.com/product_detail_psn9349254002042-7.jpg"]
     },
     {
       "productID": "236",
@@ -3786,7 +3786,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9349254002035.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9349254002035.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9349254002035-1.jpg","http://cdn.aumake.com/product_detail_psn9349254002035-2.jpg","http://cdn.aumake.com/product_detail_psn9349254002035-3.jpg","http://cdn.aumake.com/product_detail_psn9349254002035-4.jpg","http://cdn.aumake.com/product_detail_psn9349254002035-5.jpg","http://cdn.aumake.com/product_detail_psn9349254002035-8.jpg","http://cdn.aumake.com/product_detail_psn9349254002035-6.jpg","http://cdn.aumake.com/product_detail_psn9349254002035-7.jpg"]
     },
     {
       "productID": "237",
@@ -3802,7 +3802,7 @@
       "unit": "50ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1580284396087-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1580284396087-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "238",
@@ -3818,7 +3818,7 @@
       "unit": "套装",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588236752125-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588236752125-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "239",
@@ -3834,7 +3834,7 @@
       "unit": "200ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752327477-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752327477-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1583281206585","http://cdn.aumake.com/good_details_1583281232465"]
     },
     {
       "productID": "240",
@@ -3850,7 +3850,7 @@
       "unit": "50ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586421966135-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586421966135-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9352563001262.jpg"]
     },
     {
       "productID": "241",
@@ -3866,7 +3866,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1564989765154-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1564989765154-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1594111652543"]
     },
     {
       "productID": "242",
@@ -3882,7 +3882,7 @@
       "unit": "6支套装",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565748285077-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565748285077-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9334518005167-1.jpg","http://cdn.aumake.com/product_detail_psn9334518005167-3.jpg","http://cdn.aumake.com/product_detail_psn9334518005167-2.jpg","http://cdn.aumake.com/product_detail_psn9334518005167-4.jpg","http://cdn.aumake.com/product_detail_psn9334518005167-5.jpg"]
     },
     {
       "productID": "243",
@@ -3898,7 +3898,7 @@
       "unit": "50ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421903535238.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421903535238.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9421903535238.jpg"]
     },
     {
       "productID": "244",
@@ -3914,7 +3914,7 @@
       "unit": "150ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421903535221.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421903535221.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9421903535221.jpg"]
     },
     {
       "productID": "245",
@@ -3930,7 +3930,7 @@
       "unit": "50ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9350634008189_1.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9350634008189_1.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9350634008189-1.png","http://cdn.aumake.com/product_detail_psn9350634008189-2.png","http://cdn.aumake.com/product_detail_psn9350634008189-3.png","http://cdn.aumake.com/product_detail_psn9350634008189-4.png","http://cdn.aumake.com/product_detail_psn9350634008189-5.png","http://cdn.aumake.com/product_detail_psn9350634008189-7.png","http://cdn.aumake.com/product_detail_psn9350634008189-10.png","http://cdn.aumake.com/product_detail_psn9350634008189-6.png","http://cdn.aumake.com/product_detail_psn9350634008189-8.png","http://cdn.aumake.com/product_detail_psn9350634008189-9.png"]
     },
     {
       "productID": "246",
@@ -3946,7 +3946,7 @@
       "unit": "1盒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422234002-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422234002-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9334518001756.jpg"]
     },
     {
       "productID": "247",
@@ -3962,7 +3962,7 @@
       "unit": "6支装",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422256978-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422256978-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9334518005563.jpg"]
     },
     {
       "productID": "248",
@@ -3978,7 +3978,7 @@
       "unit": "50ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423668883-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423668883-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9421900325740.jpg"]
     },
     {
       "productID": "249",
@@ -3994,7 +3994,7 @@
       "unit": "60粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1567245523840-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1567245523840-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1567245547080","http://cdn.aumake.com/good_details_1567245534144","http://cdn.aumake.com/good_details_1567245538621","http://cdn.aumake.com/good_details_1567245542588"]
     },
     {
       "productID": "250",
@@ -4010,7 +4010,7 @@
       "unit": "42ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423041249-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423041249-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9319932001841.jpg"]
     },
     {
       "productID": "251",
@@ -4026,7 +4026,7 @@
       "unit": "180粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422569583-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422569583-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348107001539.jpg"]
     },
     {
       "productID": "252",
@@ -4042,7 +4042,7 @@
       "unit": "三支装3*10ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9352265000051.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9352265000051.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9352265000051.jpg"]
     },
     {
       "productID": "253",
@@ -4058,7 +4058,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586424229439-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586424229439-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn7290011521011.png"]
     },
     {
       "productID": "254",
@@ -4074,7 +4074,7 @@
       "unit": "150ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422723700-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422723700-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348107001676.jpg"]
     },
     {
       "productID": "255",
@@ -4090,7 +4090,7 @@
       "unit": "1支",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9350634008202.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9350634008202.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9350634008202.jpg"]
     },
     {
       "productID": "256",
@@ -4106,7 +4106,7 @@
       "unit": "20ML",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143852579-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143852579-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9319932002060.jpg"]
     },
     {
       "productID": "257",
@@ -4122,7 +4122,7 @@
       "unit": "15g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422458500-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422458500-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn8714367002950.png"]
     },
     {
       "productID": "258",
@@ -4138,7 +4138,7 @@
       "unit": "5对\\\/盒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1566957674249-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1566957674249-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1566957703233"]
     },
     {
       "productID": "259",
@@ -4154,7 +4154,7 @@
       "unit": "盒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423940396-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423940396-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9350634004839.jpg"]
     },
     {
       "productID": "260",
@@ -4170,7 +4170,7 @@
       "unit": "50ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9351829009905.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9351829009905.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9351829009905.jpg"]
     },
     {
       "productID": "261",
@@ -4186,7 +4186,7 @@
       "unit": "120ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9354590000003_1.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9354590000003_1.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9354590000003.jpg"]
     },
     {
       "productID": "262",
@@ -4202,7 +4202,7 @@
       "unit": "45ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421017760762.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421017760762.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9421017760762.png"]
     },
     {
       "productID": "263",
@@ -4218,7 +4218,7 @@
       "unit": "5片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143340773-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143340773-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9369998311972.jpg"]
     },
     {
       "productID": "264",
@@ -4234,7 +4234,7 @@
       "unit": "300g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586421990631-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586421990631-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9369998017959.jpg"]
     },
     {
       "productID": "265",
@@ -4250,7 +4250,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422203920-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422203920-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "266",
@@ -4266,7 +4266,7 @@
       "unit": "5ml*2",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9369998025831.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9369998025831.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9369998025831.jpg"]
     },
     {
       "productID": "267",
@@ -4282,7 +4282,7 @@
       "unit": "120ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9354590000010_1.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9354590000010_1.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9354590000010.jpg"]
     },
     {
       "productID": "268",
@@ -4298,7 +4298,7 @@
       "unit": "30ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586421925286-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586421925286-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn94183986.png"]
     },
     {
       "productID": "269",
@@ -4314,7 +4314,7 @@
       "unit": "15ML",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586424261652-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586424261652-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9350634008233-1.jpg","http://cdn.aumake.com/product_detail_psn9350634008233-2.jpg","http://cdn.aumake.com/product_detail_psn9350634008233-3.jpg","http://cdn.aumake.com/product_detail_psn9350634008233-4.jpg","http://cdn.aumake.com/product_detail_psn9350634008233-5.jpg","http://cdn.aumake.com/product_detail_psn9350634008233-7.jpg","http://cdn.aumake.com/product_detail_psn9350634008233-8.jpg","http://cdn.aumake.com/product_detail_psn9350634008233-6.jpg"]
     },
     {
       "productID": "270",
@@ -4330,7 +4330,7 @@
       "unit": "30ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1562682532535-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1562682532535-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589967014335"]
     },
     {
       "productID": "271",
@@ -4346,7 +4346,7 @@
       "unit": "一瓶",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9353493000066(C)_1.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9353493000066(C)_1.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9353493000066(C)-1.png","http://cdn.aumake.com/product_detail_psn9353493000066(C)-2.png","http://cdn.aumake.com/product_detail_psn9353493000066(C)-3.png","http://cdn.aumake.com/product_detail_psn9353493000066(C)-4.png","http://cdn.aumake.com/product_detail_psn9353493000066(C)-5.png","http://cdn.aumake.com/product_detail_psn9353493000066(C)-9.png","http://cdn.aumake.com/product_detail_psn9353493000066(C)-7.png","http://cdn.aumake.com/product_detail_psn9353493000066(C)-6.png","http://cdn.aumake.com/product_detail_psn9353493000066(C)-8.png"]
     },
     {
       "productID": "272",
@@ -4362,7 +4362,7 @@
       "unit": "5片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9369998116546_1.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9369998116546_1.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9369998116546.jpg"]
     },
     {
       "productID": "273",
@@ -4378,7 +4378,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143905496-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143905496-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1567647257364","http://cdn.aumake.com/good_details_1567647261674","http://cdn.aumake.com/good_details_1567647263797"]
     },
     {
       "productID": "274",
@@ -4394,7 +4394,7 @@
       "unit": "5片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main1_psn9369998214716-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main1_psn9369998214716",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9369998214716.jpg"]
     },
     {
       "productID": "275",
@@ -4410,7 +4410,7 @@
       "unit": "50g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565918381629-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565918381629-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348107001508.jpg"]
     },
     {
       "productID": "276",
@@ -4426,7 +4426,7 @@
       "unit": "300g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421905162050.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421905162050.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1593680622777"]
     },
     {
       "productID": "277",
@@ -4442,7 +4442,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143683019-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143683019-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348107001560.png"]
     },
     {
       "productID": "278",
@@ -4458,7 +4458,7 @@
       "unit": "50ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422703251-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422703251-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "279",
@@ -4474,7 +4474,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423881710-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423881710-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9369998023530.jpg"]
     },
     {
       "productID": "280",
@@ -4490,7 +4490,7 @@
       "unit": "10ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422752108-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422752108-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348107001652.jpg"]
     },
     {
       "productID": "281",
@@ -4506,7 +4506,7 @@
       "unit": "60ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423909932-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423909932-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9350634007229-1.png","http://cdn.aumake.com/product_detail_psn9350634007229-2.png","http://cdn.aumake.com/product_detail_psn9350634007229-3.png","http://cdn.aumake.com/product_detail_psn9350634007229-4.png","http://cdn.aumake.com/product_detail_psn9350634007229-5.png","http://cdn.aumake.com/product_detail_psn9350634007229-6.png"]
     },
     {
       "productID": "282",
@@ -4522,7 +4522,7 @@
       "unit": "200ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316542140120.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316542140120.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9316542140120.jpg"]
     },
     {
       "productID": "283",
@@ -4538,7 +4538,7 @@
       "unit": "8pcs",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422489048-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422489048-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348107001591-1.png","http://cdn.aumake.com/product_detail_psn9348107001591-2.png","http://cdn.aumake.com/product_detail_psn9348107001591-3.png","http://cdn.aumake.com/product_detail_psn9348107001591-4.png","http://cdn.aumake.com/product_detail_psn9348107001591-5.png","http://cdn.aumake.com/product_detail_psn9348107001591-7.png","http://cdn.aumake.com/product_detail_psn9348107001591-6.png"]
     },
     {
       "productID": "284",
@@ -4554,7 +4554,7 @@
       "unit": "一瓶",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423827451-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423827451-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9311770602808-1.jpg","http://cdn.aumake.com/product_detail_psn9311770602808-2.jpg","http://cdn.aumake.com/product_detail_psn9311770602808-3.jpg","http://cdn.aumake.com/product_detail_psn9311770602808-4.jpg","http://cdn.aumake.com/product_detail_psn9311770602808-5.jpg"]
     },
     {
       "productID": "285",
@@ -4570,7 +4570,7 @@
       "unit": "一瓶",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9311770602822.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9311770602822.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9311770602822-1.jpg","http://cdn.aumake.com/product_detail_psn9311770602822-2.jpg","http://cdn.aumake.com/product_detail_psn9311770602822-3.jpg","http://cdn.aumake.com/product_detail_psn9311770602822-4.jpg","http://cdn.aumake.com/product_detail_psn9311770602822-5.jpg","http://cdn.aumake.com/product_detail_psn9311770602822-6.jpg","http://cdn.aumake.com/product_detail_psn9311770602822-7.jpg"]
     },
     {
       "productID": "286",
@@ -4586,7 +4586,7 @@
       "unit": "5片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422516715-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422516715-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348107001072.jpg"]
     },
     {
       "productID": "287",
@@ -4602,7 +4602,7 @@
       "unit": "25ml 5片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422547097-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422547097-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348107001386.jpg"]
     },
     {
       "productID": "288",
@@ -4618,7 +4618,7 @@
       "unit": "25ml 5片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422622359-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422622359-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348107001409.jpg"]
     },
     {
       "productID": "289",
@@ -4634,7 +4634,7 @@
       "unit": "25ml 5片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143703397-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143703397-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348107001393.jpg"]
     },
     {
       "productID": "290",
@@ -4650,7 +4650,7 @@
       "unit": "120ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143645867-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143645867-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348107001485.jpg"]
     },
     {
       "productID": "291",
@@ -4666,7 +4666,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423579622-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423579622-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9316542111472.jpg"]
     },
     {
       "productID": "292",
@@ -4682,7 +4682,7 @@
       "unit": "60g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422818473-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422818473-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9338598000043.jpg"]
     },
     {
       "productID": "293",
@@ -4698,7 +4698,7 @@
       "unit": "1套",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9347802000014.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9347802000014.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9347802000014.jpg"]
     },
     {
       "productID": "294",
@@ -4714,7 +4714,7 @@
       "unit": "1套",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9347802000021.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9347802000021.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9347802000021.jpg"]
     },
     {
       "productID": "295",
@@ -4730,7 +4730,7 @@
       "unit": "250ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316542110062_1.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316542110062_1.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9316542110062.jpg"]
     },
     {
       "productID": "296",
@@ -4746,7 +4746,7 @@
       "unit": "125ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423601733-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423601733-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9316542111458.jpg"]
     },
     {
       "productID": "297",
@@ -4762,7 +4762,7 @@
       "unit": "50ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586424333067-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586424333067-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9312146006053.jpg"]
     },
     {
       "productID": "298",
@@ -4778,7 +4778,7 @@
       "unit": "25ml 5片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422644985-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422644985-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348107000488.jpg"]
     },
     {
       "productID": "299",
@@ -4794,7 +4794,7 @@
       "unit": "50ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422796512-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422796512-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9316254017062.jpg"]
     },
     {
       "productID": "300",
@@ -4810,7 +4810,7 @@
       "unit": "7ps",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565230893940-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565230893940-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1593679589887"]
     },
     {
       "productID": "301",
@@ -4826,7 +4826,7 @@
       "unit": "7ps",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565231210268-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565231210268-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1593683548046"]
     },
     {
       "productID": "302",
@@ -4842,7 +4842,7 @@
       "unit": "200ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316542140274.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316542140274.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1567474997501"]
     },
     {
       "productID": "303",
@@ -4858,7 +4858,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588145042674-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588145042674-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn717554060069-1.jpg","http://cdn.aumake.com/product_detail_psn717554060069-2.jpg","http://cdn.aumake.com/product_detail_psn717554060069-3.jpg"]
     },
     {
       "productID": "304",
@@ -4874,7 +4874,7 @@
       "unit": "1kg",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565919309359-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565919309359-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9322316001252.jpg"]
     },
     {
       "productID": "305",
@@ -4890,7 +4890,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588145130504-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588145130504-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9352563001323.jpg"]
     },
     {
       "productID": "306",
@@ -4906,7 +4906,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588145094103-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588145094103-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1568270640052"]
     },
     {
       "productID": "307",
@@ -4922,7 +4922,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1563250467885-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1563250467885-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9352563001330.jpg"]
     },
     {
       "productID": "308",
@@ -4938,7 +4938,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314839004759.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314839004759.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1574047208499"]
     },
     {
       "productID": "309",
@@ -4954,7 +4954,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9334518002197.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9334518002197.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9334518002197.jpg"]
     },
     {
       "productID": "310",
@@ -4970,7 +4970,7 @@
       "unit": "25ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn93542593.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn93542593.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn93542593.jpg"]
     },
     {
       "productID": "311",
@@ -4986,7 +4986,7 @@
       "unit": "25g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn717554020209_1.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn717554020209_1.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn717554020209.jpg"]
     },
     {
       "productID": "312",
@@ -5002,7 +5002,7 @@
       "unit": "50g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423969230-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423969230-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1568959084260"]
     },
     {
       "productID": "313",
@@ -5018,7 +5018,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9334518002180.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9334518002180.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9334518002180.jpg"]
     },
     {
       "productID": "314",
@@ -5034,7 +5034,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565231882004-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565231882004-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9324525010001.jpg"]
     },
     {
       "productID": "315",
@@ -5050,7 +5050,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9333804002590.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9333804002590.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9333804002590.jpg"]
     },
     {
       "productID": "316",
@@ -5066,7 +5066,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1587978077323-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1587978077323-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9334518003118.jpg"]
     },
     {
       "productID": "317",
@@ -5082,7 +5082,7 @@
       "unit": "3.7g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144561944-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144561944-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9324525010148.jpg"]
     },
     {
       "productID": "318",
@@ -5098,7 +5098,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9334518001688.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9334518001688.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9334518001688.png"]
     },
     {
       "productID": "319",
@@ -5114,7 +5114,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9334518003125.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9334518003125.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9334518003125.jpg"]
     },
     {
       "productID": "320",
@@ -5130,7 +5130,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9334518003101.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9334518003101.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9334518003101.jpg"]
     },
     {
       "productID": "321",
@@ -5146,7 +5146,7 @@
       "unit": "250g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143726191-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143726191-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9322316001108.jpg"]
     },
     {
       "productID": "322",
@@ -5162,7 +5162,7 @@
       "unit": "250g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9322316001160.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9322316001160.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9322316001160.png"]
     },
     {
       "productID": "323",
@@ -5176,9 +5176,9 @@
       "sales": "2043",
       "netWeight": "150",
       "unit": "100",
-      "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565919920885-sthumb",
-      "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565919920885-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9322316001160.jpg-sthumb",
+      "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9322316001160.jpg",
+      "detailUrl": []
     },
     {
       "productID": "324",
@@ -5194,7 +5194,7 @@
       "unit": "3.7g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144538622-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144538622-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9324525010131.jpg"]
     },
     {
       "productID": "325",
@@ -5210,7 +5210,7 @@
       "unit": "3.7g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144585881-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144585881-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9324525000712.jpg"]
     },
     {
       "productID": "326",
@@ -5226,7 +5226,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9334518001671.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9334518001671.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9334518001671.jpg"]
     },
     {
       "productID": "327",
@@ -5242,7 +5242,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9334518003095.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9334518003095.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9334518003095.jpg"]
     },
     {
       "productID": "328",
@@ -5258,7 +5258,7 @@
       "unit": "盒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144421979-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144421979-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589966239011"]
     },
     {
       "productID": "329",
@@ -5274,7 +5274,7 @@
       "unit": "50ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9350634007212.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9350634007212.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1569555395309","http://cdn.aumake.com/good_details_1569555400086","http://cdn.aumake.com/good_details_1569555402694","http://cdn.aumake.com/good_details_1569555405587"]
     },
     {
       "productID": "330",
@@ -5290,7 +5290,7 @@
       "unit": "110ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1592471788633-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1592471788633-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1592471923104"]
     },
     {
       "productID": "331",
@@ -5306,7 +5306,7 @@
       "unit": "1片*25ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143496005-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143496005-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9334518005235.png"]
     },
     {
       "productID": "332",
@@ -5322,7 +5322,7 @@
       "unit": "15g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586845955633-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586845955633-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1586845818517"]
     },
     {
       "productID": "333",
@@ -5338,7 +5338,7 @@
       "unit": "70g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1590389207641-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1590389207641-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1590572309574"]
     },
     {
       "productID": "334",
@@ -5354,7 +5354,7 @@
       "unit": "套装",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1590388553615-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1590388553615-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1590571825554"]
     },
     {
       "productID": "335",
@@ -5370,7 +5370,7 @@
       "unit": "110ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1592472695832-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1592472695832-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1592472709900"]
     },
     {
       "productID": "336",
@@ -5386,7 +5386,7 @@
       "unit": "28粒\\\/盒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1568955279575-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1568955279575-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1568955285001","http://cdn.aumake.com/good_details_1568955288973","http://cdn.aumake.com/good_details_1568955293126","http://cdn.aumake.com/good_details_1568955297178","http://cdn.aumake.com/good_details_1568955299896"]
     },
     {
       "productID": "337",
@@ -5402,7 +5402,7 @@
       "unit": "70g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586425450781-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586425450781-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589967245349"]
     },
     {
       "productID": "338",
@@ -5418,7 +5418,7 @@
       "unit": "7片\\\/盒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422296778-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422296778-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1572566683296"]
     },
     {
       "productID": "339",
@@ -5434,7 +5434,7 @@
       "unit": "5片装",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588141844425-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588141844425-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1568942065619"]
     },
     {
       "productID": "340",
@@ -5450,7 +5450,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422991038-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422991038-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582591148957","http://cdn.aumake.com/good_details_1582591153142","http://cdn.aumake.com/good_details_1582591156178"]
     },
     {
       "productID": "341",
@@ -5466,7 +5466,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586332318567-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586332318567-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582591090315","http://cdn.aumake.com/good_details_1582591097682","http://cdn.aumake.com/good_details_1582591100173"]
     },
     {
       "productID": "342",
@@ -5480,9 +5480,9 @@
       "sales": "2045",
       "netWeight": "150",
       "unit": "10ml",
-      "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565224255238-sthumb",
-      "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565224255238-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1582507890201-sthumb",
+      "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1582507890201-s1080p",
+      "detailUrl": []
     },
     {
       "productID": "343",
@@ -5498,7 +5498,7 @@
       "unit": "20ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1582507890201-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1582507890201-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582507895677","http://cdn.aumake.com/good_details_1582507900338","http://cdn.aumake.com/good_details_1582507903838"]
     },
     {
       "productID": "344",
@@ -5514,7 +5514,7 @@
       "unit": "3.9g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422969140-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422969140-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1584005547349","http://cdn.aumake.com/good_details_1584005552599"]
     },
     {
       "productID": "345",
@@ -5530,7 +5530,7 @@
       "unit": "150g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423638757-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586423638757-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1582887384017","http://cdn.aumake.com/good_details_1583281986189"]
     },
     {
       "productID": "346",
@@ -5546,7 +5546,7 @@
       "unit": "3对",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589956588443-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589956588443-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1590571688696"]
     },
     {
       "productID": "347",
@@ -5562,7 +5562,7 @@
       "unit": "50ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422182617-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422182617-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1573459632069"]
     },
     {
       "productID": "348",
@@ -5578,7 +5578,7 @@
       "unit": "250ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1590389122203-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1590389122203-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1590571890681"]
     },
     {
       "productID": "349",
@@ -5594,7 +5594,7 @@
       "unit": "21片\\\/盒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1580626025306-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1580626025306-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1580626030667"]
     },
     {
       "productID": "350",
@@ -5610,7 +5610,7 @@
       "unit": "300ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1590392943639-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1590392943639-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1590572366013"]
     },
     {
       "productID": "351",
@@ -5626,7 +5626,7 @@
       "unit": "100ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1577422545324-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1577422545324-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589017872126"]
     },
     {
       "productID": "352",
@@ -5642,7 +5642,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422949540-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586422949540-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1585640318956"]
     },
     {
       "productID": "353",
@@ -5658,7 +5658,7 @@
       "unit": "套装",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586835579591-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586835579591-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "354",
@@ -5674,7 +5674,7 @@
       "unit": "60g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9347697009888.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9347697009888.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9347697009888-1.jpg","http://cdn.aumake.com/product_detail_psn9347697009888-2.jpg","http://cdn.aumake.com/product_detail_psn9347697009888-3.jpg","http://cdn.aumake.com/product_detail_psn9347697009888-5.jpg","http://cdn.aumake.com/product_detail_psn9347697009888-4.jpg","http://cdn.aumake.com/product_detail_psn9347697009888-6.jpg"]
     },
     {
       "productID": "355",
@@ -5690,7 +5690,7 @@
       "unit": "60g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9347697000359.gif-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9347697000359.gif",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589017939465"]
     },
     {
       "productID": "356",
@@ -5706,7 +5706,7 @@
       "unit": "60g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753837025-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753837025-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9331927003333.png"]
     },
     {
       "productID": "357",
@@ -5722,7 +5722,7 @@
       "unit": "60粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753599647-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753599647-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9344949001140-1.jpg","http://cdn.aumake.com/product_detail_psn9344949001140-2.jpg","http://cdn.aumake.com/product_detail_psn9344949001140-3.jpg","http://cdn.aumake.com/product_detail_psn9344949001140-4.jpg"]
     },
     {
       "productID": "358",
@@ -5738,7 +5738,7 @@
       "unit": "150g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753555066-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753555066-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9344949001195.jpg"]
     },
     {
       "productID": "359",
@@ -5754,7 +5754,7 @@
       "unit": "120粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753531207-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753531207-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9344949001065.jpg"]
     },
     {
       "productID": "360",
@@ -5770,7 +5770,7 @@
       "unit": "90粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753506903-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753506903-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9344949001256-1.jpg","http://cdn.aumake.com/product_detail_psn9344949001256-2.jpg","http://cdn.aumake.com/product_detail_psn9344949001256-3.jpg","http://cdn.aumake.com/product_detail_psn9344949001256-4.jpg","http://cdn.aumake.com/product_detail_psn9344949001256-5.jpg","http://cdn.aumake.com/product_detail_psn9344949001256-12.jpg","http://cdn.aumake.com/product_detail_psn9344949001256-6.jpg","http://cdn.aumake.com/product_detail_psn9344949001256-8.jpg","http://cdn.aumake.com/product_detail_psn9344949001256-13.jpg","http://cdn.aumake.com/product_detail_psn9344949001256-7.jpg","http://cdn.aumake.com/product_detail_psn9344949001256-10.jpg","http://cdn.aumake.com/product_detail_psn9344949001256-9.jpg","http://cdn.aumake.com/product_detail_psn9344949001256-11.jpg"]
     },
     {
       "productID": "361",
@@ -5786,7 +5786,7 @@
       "unit": "90粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753717086-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753717086-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9344949001249-1.jpg","http://cdn.aumake.com/product_detail_psn9344949001249-2.jpg","http://cdn.aumake.com/product_detail_psn9344949001249-3.jpg","http://cdn.aumake.com/product_detail_psn9344949001249-4.jpg","http://cdn.aumake.com/product_detail_psn9344949001249-5.jpg","http://cdn.aumake.com/product_detail_psn9344949001249-10.jpg","http://cdn.aumake.com/product_detail_psn9344949001249-6.jpg","http://cdn.aumake.com/product_detail_psn9344949001249-7.jpg","http://cdn.aumake.com/product_detail_psn9344949001249-9.jpg","http://cdn.aumake.com/product_detail_psn9344949001249-8.jpg","http://cdn.aumake.com/product_detail_psn9344949001249-11.jpg"]
     },
     {
       "productID": "362",
@@ -5802,7 +5802,7 @@
       "unit": "60粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753586055-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753586055-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9344949001263-1.jpg","http://cdn.aumake.com/product_detail_psn9344949001263-2.jpg","http://cdn.aumake.com/product_detail_psn9344949001263-3.jpg","http://cdn.aumake.com/product_detail_psn9344949001263-4.jpg","http://cdn.aumake.com/product_detail_psn9344949001263-5.jpg","http://cdn.aumake.com/product_detail_psn9344949001263-12.jpg","http://cdn.aumake.com/product_detail_psn9344949001263-8.jpg","http://cdn.aumake.com/product_detail_psn9344949001263-9.jpg","http://cdn.aumake.com/product_detail_psn9344949001263-11.jpg","http://cdn.aumake.com/product_detail_psn9344949001263-16.jpg","http://cdn.aumake.com/product_detail_psn9344949001263-10.jpg","http://cdn.aumake.com/product_detail_psn9344949001263-7.jpg"]
     },
     {
       "productID": "363",
@@ -5818,7 +5818,7 @@
       "unit": "3.5g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753441843-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753441843-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1568959857186"]
     },
     {
       "productID": "364",
@@ -5834,7 +5834,7 @@
       "unit": "3.5g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753421363-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753421363-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1568685572389","http://cdn.aumake.com/good_details_1568685575716"]
     },
     {
       "productID": "365",
@@ -5850,7 +5850,7 @@
       "unit": "60 cap",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753687903-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753687903-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1594112089335"]
     },
     {
       "productID": "366",
@@ -5866,7 +5866,7 @@
       "unit": "150粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586754085961-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586754085961-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1593682450916"]
     },
     {
       "productID": "367",
@@ -5882,7 +5882,7 @@
       "unit": "500ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9332059000481.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9332059000481.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9332059000481.jpg"]
     },
     {
       "productID": "368",
@@ -5898,7 +5898,7 @@
       "unit": "500ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588126837369-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588126837369-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1574047363169"]
     },
     {
       "productID": "369",
@@ -5914,7 +5914,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1590393083015-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1590393083015-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1590571789856"]
     },
     {
       "productID": "370",
@@ -5930,7 +5930,7 @@
       "unit": "200ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586424137016-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586424137016-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn6001159111368.png"]
     },
     {
       "productID": "371",
@@ -5946,7 +5946,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586424207348-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586424207348-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1593680934497"]
     },
     {
       "productID": "372",
@@ -5962,7 +5962,7 @@
       "unit": "90片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316090505105.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316090505105.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9316090505105-1.jpg","http://cdn.aumake.com/product_detail_psn9316090505105-2.jpg","http://cdn.aumake.com/product_detail_psn9316090505105-3.jpg","http://cdn.aumake.com/product_detail_psn9316090505105-4.jpg","http://cdn.aumake.com/product_detail_psn9316090505105-5.jpg","http://cdn.aumake.com/product_detail_psn9316090505105-9.jpg","http://cdn.aumake.com/product_detail_psn9316090505105-8.jpg","http://cdn.aumake.com/product_detail_psn9316090505105-7.jpg","http://cdn.aumake.com/product_detail_psn9316090505105-6.jpg"]
     },
     {
       "productID": "373",
@@ -5978,7 +5978,7 @@
       "unit": "250g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314839011948.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314839011948.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9314839011948.jpg"]
     },
     {
       "productID": "374",
@@ -5994,7 +5994,7 @@
       "unit": "250g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314839016943.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314839016943.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9314839016943.jpg"]
     },
     {
       "productID": "375",
@@ -6010,7 +6010,7 @@
       "unit": "2.4ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316090506003.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316090506003.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9316090506003.jpg"]
     },
     {
       "productID": "376",
@@ -6026,7 +6026,7 @@
       "unit": "75g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752791649-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752791649-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn93304917-1.jpg","http://cdn.aumake.com/product_detail_psn93304917-2.jpg","http://cdn.aumake.com/product_detail_psn93304917-3.jpg","http://cdn.aumake.com/product_detail_psn93304917-4.jpg","http://cdn.aumake.com/product_detail_psn93304917-5.jpg","http://cdn.aumake.com/product_detail_psn93304917-8.jpg","http://cdn.aumake.com/product_detail_psn93304917-11.jpg","http://cdn.aumake.com/product_detail_psn93304917-6.jpg","http://cdn.aumake.com/product_detail_psn93304917-10.jpg","http://cdn.aumake.com/product_detail_psn93304917-13.jpg","http://cdn.aumake.com/product_detail_psn93304917-12.jpg","http://cdn.aumake.com/product_detail_psn93304917-7.jpg","http://cdn.aumake.com/product_detail_psn93304917-8.jpg"]
     },
     {
       "productID": "377",
@@ -6042,7 +6042,7 @@
       "unit": "125g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144607695-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588144607695-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn5011025047005-1.jpg","http://cdn.aumake.com/product_detail_psn5011025047005-2.jpg","http://cdn.aumake.com/product_detail_psn5011025047005-3.jpg"]
     },
     {
       "productID": "378",
@@ -6058,7 +6058,7 @@
       "unit": "250g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314839011931.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314839011931.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1566370875120"]
     },
     {
       "productID": "379",
@@ -6074,7 +6074,7 @@
       "unit": "75ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9330344001687.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9330344001687.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9330344001687.jpg"]
     },
     {
       "productID": "380",
@@ -6090,7 +6090,7 @@
       "unit": "175ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586332341957-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586332341957-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn93203555.jpg"]
     },
     {
       "productID": "381",
@@ -6106,7 +6106,7 @@
       "unit": "50片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9400097041602.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9400097041602.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1593683453799"]
     },
     {
       "productID": "382",
@@ -6122,7 +6122,7 @@
       "unit": "50g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586754029422-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586754029422-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn5000174471748-1.jpg","http://cdn.aumake.com/product_detail_psn5000174471748-2.jpg","http://cdn.aumake.com/product_detail_psn5000174471748-3.jpg","http://cdn.aumake.com/product_detail_psn5000174471748-4.jpg","http://cdn.aumake.com/product_detail_psn5000174471748-5.jpg","http://cdn.aumake.com/product_detail_psn5000174471748-6.jpg","http://cdn.aumake.com/product_detail_psn5000174471748-8.jpg","http://cdn.aumake.com/product_detail_psn5000174471748-7.jpg","http://cdn.aumake.com/product_detail_psn5000174471748-9.jpg"]
     },
     {
       "productID": "383",
@@ -6138,7 +6138,7 @@
       "unit": "50片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9400097041619.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9400097041619.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9400097041619.jpg"]
     },
     {
       "productID": "384",
@@ -6154,7 +6154,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753756334-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753756334-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1593681256574"]
     },
     {
       "productID": "385",
@@ -6170,7 +6170,7 @@
       "unit": "50片",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565244883858-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565244883858-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9400097041930.jpg"]
     },
     {
       "productID": "386",
@@ -6186,7 +6186,7 @@
       "unit": "50粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9100097041923.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9100097041923.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9100097041923-1.jpg","http://cdn.aumake.com/product_detail_psn9100097041923-2.jpg","http://cdn.aumake.com/product_detail_psn9100097041923-3.jpg","http://cdn.aumake.com/product_detail_psn9100097041923-4.jpg"]
     },
     {
       "productID": "387",
@@ -6202,7 +6202,7 @@
       "unit": "20ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753983899-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753983899-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1593683204338"]
     },
     {
       "productID": "388",
@@ -6218,7 +6218,7 @@
       "unit": "50g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9312657011010.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9312657011010.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9312657011010.jpg"]
     },
     {
       "productID": "389",
@@ -6234,7 +6234,7 @@
       "unit": "50g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9312657007013.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9312657007013.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9312657007013.jpg","http://cdn.aumake.com/product_detail_psn9312657007013.png"]
     },
     {
       "productID": "390",
@@ -6250,7 +6250,7 @@
       "unit": "1个",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9312657131015.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9312657131015.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1593681428578"]
     },
     {
       "productID": "391",
@@ -6266,7 +6266,7 @@
       "unit": "50g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9312657009017.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9312657009017.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1574047675431"]
     },
     {
       "productID": "392",
@@ -6282,7 +6282,7 @@
       "unit": "50g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753791846-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753791846-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9312657008010-1.jpg","http://cdn.aumake.com/product_detail_psn9312657008010-2.jpg","http://cdn.aumake.com/product_detail_psn9312657008010-3.jpg","http://cdn.aumake.com/product_detail_psn9312657008010-4.jpg","http://cdn.aumake.com/product_detail_psn9312657008010-5.jpg"]
     },
     {
       "productID": "393",
@@ -6298,7 +6298,7 @@
       "unit": "50g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9312657010013.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9312657010013.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9312657010013.jpg"]
     },
     {
       "productID": "394",
@@ -6314,7 +6314,7 @@
       "unit": "50g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9312657008027.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9312657008027.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1566370669416"]
     },
     {
       "productID": "395",
@@ -6330,7 +6330,7 @@
       "unit": "一个",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752402768-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752402768-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1574915048366"]
     },
     {
       "productID": "396",
@@ -6346,7 +6346,7 @@
       "unit": "125g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588145247858-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588145247858-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1593681960949"]
     },
     {
       "productID": "397",
@@ -6362,7 +6362,7 @@
       "unit": "125g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588140344529-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588140344529-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1594779763651"]
     },
     {
       "productID": "398",
@@ -6378,7 +6378,7 @@
       "unit": "125g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588140574188-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588140574188-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9332045001867.jpg"]
     },
     {
       "productID": "399",
@@ -6394,7 +6394,7 @@
       "unit": "25g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753034660-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753034660-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9338260004409.png"]
     },
     {
       "productID": "400",
@@ -6410,7 +6410,7 @@
       "unit": "75g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586754010903-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586754010903-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9415991240617.jpg"]
     },
     {
       "productID": "401",
@@ -6426,7 +6426,7 @@
       "unit": "25g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316199000037.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9316199000037.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9316199000037.jpg"]
     },
     {
       "productID": "402",
@@ -6442,7 +6442,7 @@
       "unit": "125g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9332045001874.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9332045001874.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1593683841441"]
     },
     {
       "productID": "403",
@@ -6458,7 +6458,7 @@
       "unit": "15g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752806168-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586752806168-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn93542807.jpg"]
     },
     {
       "productID": "404",
@@ -6474,7 +6474,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9349254002059.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9349254002059.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9349254002059.jpg"]
     },
     {
       "productID": "405",
@@ -6490,7 +6490,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9349254002066.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9349254002066.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9349254002066.jpg"]
     },
     {
       "productID": "406",
@@ -6506,7 +6506,7 @@
       "unit": "125g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588140596785-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588140596785-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1593683296869"]
     },
     {
       "productID": "407",
@@ -6522,7 +6522,7 @@
       "unit": "100g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9332045000044.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9332045000044.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1593683365080"]
     },
     {
       "productID": "408",
@@ -6538,7 +6538,7 @@
       "unit": "45g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753399741-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753399741-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9327269009898-1.jpg","http://cdn.aumake.com/product_detail_psn9327269009898-2.jpg","http://cdn.aumake.com/product_detail_psn9327269009898-3.jpg","http://cdn.aumake.com/product_detail_psn9327269009898-4.jpg","http://cdn.aumake.com/product_detail_psn9327269009898-5.jpg","http://cdn.aumake.com/product_detail_psn9327269009898-7.jpg","http://cdn.aumake.com/product_detail_psn9327269009898-8.jpg","http://cdn.aumake.com/product_detail_psn9327269009898-6.jpg","http://cdn.aumake.com/product_detail_psn9327269009898-9.jpg"]
     },
     {
       "productID": "409",
@@ -6554,7 +6554,7 @@
       "unit": "200ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1592474364911-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1592474364911-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1592474377521"]
     },
     {
       "productID": "410",
@@ -6570,7 +6570,7 @@
       "unit": "只",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143801511-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143801511-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "411",
@@ -6586,7 +6586,7 @@
       "unit": "200克",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589016775262-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589016775262-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "412",
@@ -6602,7 +6602,7 @@
       "unit": "200克",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589017030820-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589017030820-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "413",
@@ -6618,7 +6618,7 @@
       "unit": "50粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589179903892-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589179903892-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": []
     },
     {
       "productID": "414",
@@ -6634,7 +6634,7 @@
       "unit": "500g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753352143-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753352143-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9350407009191-1.png","http://cdn.aumake.com/product_detail_psn9350407009191-2.png","http://cdn.aumake.com/product_detail_psn9350407009191-4.png","http://cdn.aumake.com/product_detail_psn9350407009191-3.png","http://cdn.aumake.com/product_detail_psn9350407009191-5.png","http://cdn.aumake.com/product_detail_psn9350407009191-7.png","http://cdn.aumake.com/product_detail_psn9350407009191-6.png","http://cdn.aumake.com/product_detail_psn9350407009191-9.png","http://cdn.aumake.com/product_detail_psn9350407009191-8.png"]
     },
     {
       "productID": "415",
@@ -6650,7 +6650,7 @@
       "unit": "250g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586938782585-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586938782585-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9400501003882.jpg"]
     },
     {
       "productID": "416",
@@ -6666,7 +6666,7 @@
       "unit": "500g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421023620104.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421023620104.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9421023620104.jpg"]
     },
     {
       "productID": "417",
@@ -6682,7 +6682,7 @@
       "unit": "250g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9400501100079.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9400501100079.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9400501100079-1.png","http://cdn.aumake.com/product_detail_psn9400501100079-2.png","http://cdn.aumake.com/product_detail_psn9400501100079-3.png"]
     },
     {
       "productID": "418",
@@ -6698,7 +6698,7 @@
       "unit": "250g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753341777-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586753341777-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1587612087551"]
     },
     {
       "productID": "419",
@@ -6714,7 +6714,7 @@
       "unit": "250g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1566366315898-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1566366315898-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1593684099419"]
     },
     {
       "productID": "420",
@@ -6730,7 +6730,7 @@
       "unit": "500g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421023620074.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421023620074.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9421023620074-1.jpg","http://cdn.aumake.com/product_detail_psn9421023620074-2.jpg","http://cdn.aumake.com/product_detail_psn9421023620074-3.jpg","http://cdn.aumake.com/product_detail_psn9421023620074-4.jpg","http://cdn.aumake.com/product_detail_psn9421023620074-5.jpg","http://cdn.aumake.com/product_detail_psn9421023620074-10.jpg","http://cdn.aumake.com/product_detail_psn9421023620074-7.jpg","http://cdn.aumake.com/product_detail_psn9421023620074-12.jpg","http://cdn.aumake.com/product_detail_psn9421023620074-9.jpg","http://cdn.aumake.com/product_detail_psn9421023620074-8.jpg","http://cdn.aumake.com/product_detail_psn9421023620074-6.jpg","http://cdn.aumake.com/product_detail_psn9421023620074-11.jpg"]
     },
     {
       "productID": "421",
@@ -6746,7 +6746,7 @@
       "unit": "250g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9400501005558.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9400501005558.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9400501005558.jpg"]
     },
     {
       "productID": "422",
@@ -6762,7 +6762,7 @@
       "unit": "500g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586939481319-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586939481319-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9400501003738.jpg"]
     },
     {
       "productID": "423",
@@ -6778,7 +6778,7 @@
       "unit": "1kg",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586939532389-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586939532389-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9400501001123.jpg"]
     },
     {
       "productID": "424",
@@ -6794,7 +6794,7 @@
       "unit": "500g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421023620692.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421023620692.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9421023620692.jpg"]
     },
     {
       "productID": "425",
@@ -6810,7 +6810,7 @@
       "unit": "500g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421023620043.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421023620043.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9421023620043.jpg"]
     },
     {
       "productID": "426",
@@ -6826,7 +6826,7 @@
       "unit": "250g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9400501003615.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9400501003615.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9400501003615.jpg"]
     },
     {
       "productID": "427",
@@ -6842,7 +6842,7 @@
       "unit": "500g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421023620012.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421023620012.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9421023620012.jpg"]
     },
     {
       "productID": "428",
@@ -6858,7 +6858,7 @@
       "unit": "500g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586938713065-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586938713065-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9400501001116.jpg"]
     },
     {
       "productID": "429",
@@ -6874,7 +6874,7 @@
       "unit": "1kg",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588145321131-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588145321131-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9311350080019-1.jpg","http://cdn.aumake.com/product_detail_psn9311350080019-2.jpg","http://cdn.aumake.com/product_detail_psn9311350080019-3.jpg","http://cdn.aumake.com/product_detail_psn9311350080019-4.jpg","http://cdn.aumake.com/product_detail_psn9311350080019-5.jpg"]
     },
     {
       "productID": "430",
@@ -6890,7 +6890,7 @@
       "unit": "1kg",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588145286319-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588145286319-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9311350880015-1.jpg","http://cdn.aumake.com/product_detail_psn9311350880015-2.jpg","http://cdn.aumake.com/product_detail_psn9311350880015-3.jpg","http://cdn.aumake.com/product_detail_psn9311350880015-4.jpg"]
     },
     {
       "productID": "431",
@@ -6906,7 +6906,7 @@
       "unit": "250g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421023620685.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421023620685.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9421023620685.jpg"]
     },
     {
       "productID": "432",
@@ -6922,7 +6922,7 @@
       "unit": "500g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9400501003639.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9400501003639.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9400501003639.jpg"]
     },
     {
       "productID": "433",
@@ -6938,7 +6938,7 @@
       "unit": "1.3kg",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9326847001286.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9326847001286.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9326847001286.jpg"]
     },
     {
       "productID": "434",
@@ -6954,7 +6954,7 @@
       "unit": "1kg",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314488510007.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9314488510007.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9314488510007.jpg"]
     },
     {
       "productID": "435",
@@ -6970,7 +6970,7 @@
       "unit": "1kg",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1564375517508-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1564375517508-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589018945251"]
     },
     {
       "productID": "436",
@@ -6986,7 +6986,7 @@
       "unit": "250g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9400501001109.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9400501001109.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9400501001109.jpg"]
     },
     {
       "productID": "437",
@@ -7002,7 +7002,7 @@
       "unit": "500g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1566889261658-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1566889261658-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9421903455376.jpg"]
     },
     {
       "productID": "438",
@@ -7018,7 +7018,7 @@
       "unit": "400",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143781723-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1588143781723-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1574047638373"]
     },
     {
       "productID": "439",
@@ -7034,7 +7034,7 @@
       "unit": "500g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421903455291.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9421903455291.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9421903455291.jpg"]
     },
     {
       "productID": "440",
@@ -7050,7 +7050,7 @@
       "unit": "40粒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9400501003400.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9400501003400.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9400501003400.jpg"]
     },
     {
       "productID": "441",
@@ -7066,7 +7066,7 @@
       "unit": "250g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565335410140-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565335410140-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1574047509394"]
     },
     {
       "productID": "442",
@@ -7082,7 +7082,7 @@
       "unit": "250g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9311350082501.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9311350082501.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1566370169838"]
     },
     {
       "productID": "443",
@@ -7098,7 +7098,7 @@
       "unit": "285克",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn855378004705_1.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn855378004705_1.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589275345524"]
     },
     {
       "productID": "444",
@@ -7114,7 +7114,7 @@
       "unit": "20包",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main1_psn9415991233275-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main1_psn9415991233275",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9415991233275.jpg"]
     },
     {
       "productID": "445",
@@ -7130,7 +7130,7 @@
       "unit": "100",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1591586546299-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1591586546299-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589019083006"]
     },
     {
       "productID": "446",
@@ -7146,7 +7146,7 @@
       "unit": "35",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9345544001696.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9345544001696.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589275097568"]
     },
     {
       "productID": "447",
@@ -7162,7 +7162,7 @@
       "unit": "120",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9345544003751.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9345544003751.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589275281035"]
     },
     {
       "productID": "448",
@@ -7178,7 +7178,7 @@
       "unit": "90g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9345544001214.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9345544001214.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589019146432"]
     },
     {
       "productID": "449",
@@ -7194,7 +7194,7 @@
       "unit": "250g",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main1_psn9315054005842-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main1_psn9315054005842",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9315054005842.jpg"]
     },
     {
       "productID": "450",
@@ -7210,7 +7210,7 @@
       "unit": "70",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9345544003546.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9345544003546.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589275681975"]
     },
     {
       "productID": "451",
@@ -7226,7 +7226,7 @@
       "unit": "350ml",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1577937016749-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1577937016749-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589275706684"]
     },
     {
       "productID": "452",
@@ -7242,7 +7242,7 @@
       "unit": "条",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9348107001966.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9348107001966.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348107001966.png"]
     },
     {
       "productID": "453",
@@ -7258,7 +7258,7 @@
       "unit": "一条",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9348107002567.jpg-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9348107002567.jpg",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348107002567.jpg"]
     },
     {
       "productID": "454",
@@ -7274,7 +7274,7 @@
       "unit": "一盒",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565318990986-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1565318990986-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589275724789"]
     },
     {
       "productID": "455",
@@ -7290,7 +7290,7 @@
       "unit": "1",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9348107002581.png-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main2_psn9348107002581.png",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/product_detail_psn9348107002581.png"]
     },
     {
       "productID": "456",
@@ -7306,7 +7306,7 @@
       "unit": "118X85cm",
       "thumbUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589426678749-sthumb",
       "imageUrl": "http:\\\/\\\/cdn.aumake.com\\\/product_main_1589426678749-s1080p",
-      "detailUrl": ["","","","","","","","","","","","","",""]
+      "detailUrl": ["http://cdn.aumake.com/good_details_1589966840252"]
     },
     {
       "productID": "457",
