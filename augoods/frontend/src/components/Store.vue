@@ -73,6 +73,7 @@
         <product-list />
       </div>
     </div>
+    
     <!-- 显示隐藏详情 -->
     <div id="application">
       <div class="modal-overlay" v-if="showHideDetail" v-on:click="hideModal();">

@@ -1,6 +1,6 @@
 <template>
   <div class="row">    
-    <div class="mx-auto">
+    <div class="mx-auto m-1 p-3">
       <button v-bind:disabled="currentPage == 1"
         v-on:click="setCurrentPage(currentPage - 1)"
         class="btn btn-secondary mx -1"><span style="font-size:20px;transform: scale(.5, 1);">&laquo;</span>上一页</button>
