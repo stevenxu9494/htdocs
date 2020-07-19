@@ -16,6 +16,7 @@
     "vue": "^2.6.11",
     "vue-router": "^3.3.4",
     "vue-wechat-title": "^2.0.7",
+    "vue-window-size": "^0.2.5",
     "vuelidate": "^0.7.5",
     "vuex": "^3.5.1"
   },

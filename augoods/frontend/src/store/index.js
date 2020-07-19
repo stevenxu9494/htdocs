@@ -4,8 +4,10 @@ import Axios from "axios";
 import CartModule from "./cart";
 import OrdersModule from "./orders";
 import AuthModule from "./auth";
+import VueWindowSize from 'vue-window-size';
 
 Vue.use(Vuex);
+Vue.use(VueWindowSize);
 
 // const baseUrl = "http://localhost:3500";
 const baseUrl = "/api";
@@ -29,9 +31,8 @@ export default new Vuex.Store({
   strict: false,
   modules: { cart: CartModule, orders: OrdersModule, auth: AuthModule },
   state: {
-    scrHeight: 0,
-    scrWidth: 0,
-    curHeight: 0,
+    screenHeight: 0,
+    screenWidth: 0,
     // products: [],
     categoriesData: [],
     allProducts: [],
@@ -132,8 +133,11 @@ export default new Vuex.Store({
     setShowSearch(state, show) {
       state.showSearch = show;
     },
-    setHeight(state, height) {
-      state.curHeight = height
+    setScreenHeight(state, height) {
+      state.ScreenHeight = height
+    },
+    setScreenWidth(state, width) {
+      state.screenWidth = width
     },
     setShowHideDetail(state, show) {
       state.showHideDetail = show;

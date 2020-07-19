@@ -7,16 +7,15 @@
   .modal-overlay {
     position: absolute;
     display: inline-block;
-    max-width: 100%;
-    height: auto;
+    max-height: calc(100vh - 210px);
+    overflow-y: auto;
     padding: 5px;
     display: flex;
-    min-height: 100%;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    z-index: 100;
+    z-index: 5;
     background-color: rgba(0, 0, 0, 0.3);
   }
   .modal {
@@ -35,6 +34,7 @@
   }
   .modal-body{
     text-align: center;
+    margin-top: 40px;
   }
   .fade-enter-active,
   .fade-leave-active {
@@ -77,20 +77,19 @@
     <!-- 显示隐藏详情 -->
     <div id="application">
       <div class="modal-overlay" v-if="showHideDetail" v-on:click="hideModal();">
-        <div class="modal-body" ref="modal1">
-          <!-- <img id="detail" v-bind:src="currentProduct.imageUrl"> -->
+        <div class="modal-body">
           <div v-if="currentProduct.detailUrl.length > 0">
             <div v-for="url in currentProduct.detailUrl" :key="url">
-              <img id="detail" v-bind:src="url" style="max-width:300px">
+              <img id="detail" v-bind:src="url" style="max-width:{{windowWidth}}px">
             </div>
           </div>
           <div v-else>
-            <img id="detail" v-bind:src="currentProduct.imageUrl" style="max-width:300px">
+            <img id="detail" v-bind:src="currentProduct.imageUrl" style="max-width:{{windowWidth}}px">
           </div>          
         </div>
       </div>     
     </div>
-
+    
   </div>
 </template>
 
@@ -99,8 +98,12 @@ import ProductList from "./ProductList";
 import CategoryControls from "./CategoryControls";
 import CartSummary from "./CartSummary";
 import { mapMutations, mapState} from "vuex";
+import { vueWindowSizeMixin } from 'vue-window-size';
+
 import Search from "./Search";
+
 export default {
+  mixins:[vueWindowSizeMixin],
   components: { ProductList, CategoryControls, CartSummary, Search },
   computed: {
     ...mapState({ showHideDetail: "showHideDetail"}),
@@ -111,8 +114,6 @@ export default {
     hideModal() {
       this.setShowHideDetail(false);
     }
-  },
-
-  //   var curHeight = this.setHeight(window.getComputedStyle(this.$refs.modal1).height)
+  }
 }
 </script>
