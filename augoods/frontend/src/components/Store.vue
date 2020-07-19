@@ -7,7 +7,7 @@
   .modal-overlay {
     position: absolute;
     display: inline-block;
-    max-height: calc(100vh - 210px);
+    max-height: 100vh;
     overflow-y: auto;
     padding: 5px;
     display: flex;
@@ -17,6 +17,7 @@
     bottom: 0;
     z-index: 5;
     background-color: rgba(0, 0, 0, 0.3);
+    margin-top: 3vh;
   }
   .modal {
     position: fixed;
@@ -34,7 +35,7 @@
   }
   .modal-body{
     text-align: center;
-    margin-top: 40px;
+    margin-top: 1vh;
   }
   .fade-enter-active,
   .fade-leave-active {
