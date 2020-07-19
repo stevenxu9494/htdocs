@@ -1,13 +1,6 @@
 <template>
-  <div class="row mt-2">
-    <div class="col-3 form-group">
-      <select v-on:change="changePageSize">
-        <option value="4">4</option>
-        <option value="8">8</option>
-        <option value="12">12</option>
-      </select>
-    </div>
-    <div class="text-right col">
+  <div class="row">    
+    <div class="mx-auto">
       <button v-bind:disabled="currentPage == 1"
         v-on:click="setCurrentPage(currentPage - 1)"
         class="btn btn-secondary mx -1"><span style="font-size:20px;transform: scale(.5, 1);">&laquo;</span>上一页</button>
@@ -30,7 +23,15 @@
       <button v-bind:disabled="currentPage == pageCount"
         v-on:click="setCurrentPage(currentPage + 1)"
         class="btn btn-secondary mx-1">下一页<span style="font-size:20px;transform: scale(.5, 1);">&raquo;</span></button>
-      </div>
+    </div>
+    <br>
+    <div class="col-3 form-group" style="margin-top:10px;">
+      <select v-on:change="changePageSize">
+        <option value="4">每页显示4件商品</option>
+        <option value="8">每页显示8件商品</option>
+        <option value="12">每页显示12件商品</option>
+      </select>
+    </div>
   </div>
 </template>
 <script>

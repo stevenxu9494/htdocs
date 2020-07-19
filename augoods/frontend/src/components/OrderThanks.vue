@@ -6,8 +6,13 @@
     <p>感谢您完成订单，您的订单号码为 #{{ orderId }}。</p>
     <p>扫描下方二维码付款完成订单，付款成功后联系客服，我们会尽快邮寄您的货物。</p>
     <div>
-      <img style="height:30vh; margin:10px;" src=@/assets/wechatReceiveQR.png>
-      <img style="height:30vh; margin:10px;" src=@/assets/AliReceiveQR.jpg>
+      <img style="max-width:30vw;max-height:30vh; margin:10px;" src=@/assets/wechatReceiveQR.png>
+      <img style="max-width:30vw;max-height:30vh; margin:10px;" src=@/assets/AliReceiveQR.jpg>
+    </div>
+    <br>
+    <p>官方客服微信号: sorrow_day 或扫描下方二维码</p>
+    <div>
+      <img style="max-width:50vw;max-height:50vh;" src=@/assets/wechatQR.jpg>
     </div>
     <br>
     <router-link to="/" class="btn btn-primary" v-on:click.native="hideModal();">返回商店</router-link>
