@@ -58,10 +58,11 @@
 </style>
 <template>
   <div class="container-fluid">
-    <div class="row">
+    <div class="row sticky-top">
       <div class="col bg-dark text-white">
-        <a href="/" class="navbar-brand" style="color: inherit;text-decoration: none;"><img style="height:3vh;" src="@/assets/logo.png">澳驰</a>
-        <cart-summary />
+        <a href="/" class="navbar-brand p-2" style="color: inherit;text-decoration: none;"><img style="height:3vh;" src="@/assets/logo.png">澳驰</a>
+        <Search/>
+        <cart-summary/>
       </div>
     </div>
     <div class="row">
@@ -69,11 +70,11 @@
         <CategoryControls />
       </div>
       <div class="col-9 p-2">
-        <Search />
+        
         <product-list />
       </div>
     </div>
-    
+
     <!-- 显示隐藏详情 -->
     <div id="application">
       <div class="modal-overlay" v-if="showHideDetail" v-on:click="hideModal();">

@@ -1,5 +1,5 @@
 <template>
-    <div v-if="showSearch" class="row my-2" style="">
+    <div v-if="showSearch" class="row my-2">
         <label class="col-2 col-form-label text-right"><i class="fa fa-search" aria-hidden="true"></i></label>
         <input class="col form-control mx-3" 
             v-bind:value="searchTerm" v-on:input="doSearch"
