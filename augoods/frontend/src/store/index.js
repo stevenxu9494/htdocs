@@ -29,6 +29,8 @@ export default new Vuex.Store({
   strict: false,
   modules: { cart: CartModule, orders: OrdersModule, auth: AuthModule },
   state: {
+    scrHeight: 0,
+    scrWidth: 0,
     curHeight: 0,
     // products: [],
     categoriesData: [],

@@ -14,6 +14,7 @@
               <th>产品</th><th>单价</th>              
               <th class="text-right">数量</th>
               <th class="text-right">总价</th>
+              <th></th>
             </tr>
           </thead>
           <tbody>
