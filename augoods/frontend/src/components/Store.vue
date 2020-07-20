@@ -37,8 +37,6 @@
       <div class="col-9 p-2">
         <Search />
         <product-list />
-        {{showHideQR}}
-        {{showHideDetail}}
       </div>
     </div>
     <!-- poducts detail modal -->

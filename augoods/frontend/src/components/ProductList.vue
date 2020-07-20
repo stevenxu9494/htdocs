@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div v-if="products.length==0">
+    <div v-if="pageCount==0">
       <h5 class="text-center">
         亲，暂时找不到您搜索的商品，请重新输入或联系客服~
       </h5>
@@ -43,7 +43,8 @@ import PageControls from "./PageControls";
 export default {
   components: {PageControls},
   computed: {
-    ...mapGetters({ products: "processedProducts" })
+    ...mapGetters({ products: "processedProducts" }),
+    ...mapGetters(["pageCount"])
   },
   filters: {
     currency(value) {
