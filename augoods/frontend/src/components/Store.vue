@@ -20,6 +20,10 @@
   #pictures {
     max-width:100%;
   }
+  #QR {
+    max-width: 100%;
+    text-align: center;
+  }
 
 </style>
 <template>
@@ -58,7 +62,7 @@
     <div>
       <div class="modal-overlay" v-if="showHideQR" v-on:click="hideQRModal();">
         <div class="modal-body">
-          <img src="@/assets/wechatQR.jpg">
+          <img id="QR" src="@/assets/wechatQR.jpg">
         </div>
       </div>     
     </div>

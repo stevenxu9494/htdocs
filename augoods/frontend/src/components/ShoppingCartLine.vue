@@ -35,8 +35,8 @@
           this.$emit("quantity", Number($event.target.value));
           this.qvalue = $event.target.value;
         } else {
-          this.$emit("quantity", 1);
-          this.qvalue = 1;
+          this.$emit("quantity", 0);
+          this.qvalue = "";
           $event.target.value = this.qvalue;
         }
       },
