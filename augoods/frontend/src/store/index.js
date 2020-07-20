@@ -13,6 +13,7 @@ Vue.use(VueWindowSize);
 const baseUrl = "/api";
 const productsUrl = `${baseUrl}/products`;
 const categoriesUrl = `${baseUrl}/categories`;
+const ordersUrl = `${baseUrl}/Orders`;
 
 // const testData = [];
 // // const thumbUrlWrong = "http:\\\/\\\/cdn.aumake.com\\\/product_main_1586249037379-sthumb";
@@ -32,6 +33,7 @@ export default new Vuex.Store({
   modules: { cart: CartModule, orders: OrdersModule, auth: AuthModule },
   state: {
     curPosition:0,
+    orders:[],
     // products: [],
     categoriesData: [],
     allProducts: [],
@@ -91,7 +93,7 @@ export default new Vuex.Store({
     //   state.productsTotal = data.pdata.length;
     //   state.categoriesData = data.cdata.sort();
     // }
-
+    
     _setCurrentPage(state, page) {
       state.currentPage = page;
     },
@@ -123,6 +125,9 @@ export default new Vuex.Store({
     },
     setCategories(state, categories) {
       state.categoriesData = categories;
+    },
+    setOrders(state, orders) {
+      state.orders = orders;
     },
     setCurrentProduct(state, product) {
       state.currentProduct = product
@@ -177,6 +182,10 @@ export default new Vuex.Store({
     //       console.log(error);
     //     });
     // }
+    async getOrder(context) {
+      let odata = (await Axios.get(ordersUrl)).data;
+      context.commit("setOrders", odata);
+    },
     async getData(context) {
       await context.dispatch("getPage", 2);
       context.commit("setCategories", (await Axios.get(categoriesUrl)).data);

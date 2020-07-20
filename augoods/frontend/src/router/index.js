@@ -21,7 +21,7 @@ export default new VueRouter({
     { path: "/", component: Store, meta:{title:"澳驰购物中心"}},
     { path: "/cart", component:ShoppingCart },
     { path: "/checkout", component: Checkout},
-    { path: "/thanks/:id", name: 'thanksPage', component: OrderThanks},
+    { path: "/thanks/:id", name: 'thanksPage', component: OrderThanks, meta:{title:"澳驰购物中心"}},
     { path: "/login", component: Authentication },
     { path: "/admin", component: Admin,
       beforeEnter(to, from, next) {

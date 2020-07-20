@@ -41,6 +41,7 @@
       <div class="col-9 p-2">
         <Search />
         <product-list />
+        
       </div>
     </div>
     <!-- poducts detail modal -->
@@ -82,12 +83,6 @@ import Search from "./Search";
 export default {
   mixins:[vueWindowSizeMixin],
   components: { ProductList, CategoryControls, CartSummary, Search },
-  created() {
-    window.addEventListener('scroll', this.handleScroll);
-  },
-  destroyed () {
-    window.removeEventListener('scroll', this.handleScroll);
-  },
   computed: {
     ...mapState({ showHideDetail: "showHideDetail"}),
     ...mapState({ showHideQR: "showHideQR"}),    
