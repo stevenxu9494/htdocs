@@ -12,24 +12,12 @@
     z-index: 20;
     background-color: rgba(0, 0, 0, 0.3);
   }
-  .modal {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 99;
-    width: 100%;
-    max-width: 100%;
-    background-color: #FFF;
-    border-radius: 16px;
-    padding: 25px;
-  }
   .modal-body{
     text-align: center;
     margin-top: 1vh;
     min-width: 80%;
   }
-  #detail {
+  #pictures {
     max-width:100%;
   }
 
@@ -53,15 +41,15 @@
     </div>
     <!-- modal -->
     <div>
-      <div class="modal-overlay" v-if="showHideDetail" v-on:click="hideModal();" style="margin-top:{{curPosition}}px">
+      <div class="modal-overlay" v-if="showHideDetail" v-on:click="hideModal();">
         <div class="modal-body">
           <div v-if="currentProduct.detailUrl.length > 0">
             <div v-for="url in currentProduct.detailUrl" :key="url">
-              <img id="detail" v-bind:src="url" style="max-width:{{windowWidth}}px">
+              <img id="pictures" v-bind:src="url">
             </div>
           </div>
           <div v-else>
-            <img id="detail" v-bind:src="currentProduct.imageUrl" style="max-width:{{windowWidth}}px">
+            <img id="pictures" v-bind:src="currentProduct.imageUrl">
           </div>          
         </div>
       </div>     
@@ -100,7 +88,6 @@ export default {
     },
     handleScroll(){
       this.setCurPosition(document.documentElement.scrollTop)
-      console.log(document.documentElement.scrollTop);
     }
   }
 }
