@@ -2,7 +2,7 @@
   .modal-overlay {
     position: fixed;
     display: inline-block;
-    max-height: 100vh;
+    height: 100vh;
     width: 100%;
     overflow-y: auto;
     padding: 5px;
@@ -37,9 +37,11 @@
       <div class="col-9 p-2">
         <Search />
         <product-list />
+        {{showHideQR}}
+        {{showHideDetail}}
       </div>
     </div>
-    <!-- modal -->
+    <!-- poducts detail modal -->
     <div>
       <div class="modal-overlay" v-if="showHideDetail" v-on:click="hideModal();">
         <div class="modal-body">
@@ -51,6 +53,14 @@
           <div v-else>
             <img id="pictures" v-bind:src="currentProduct.imageUrl">
           </div>          
+        </div>
+      </div>     
+    </div>
+    <!-- Wechat QR modal -->
+    <div>
+      <div class="modal-overlay" v-if="showHideQR" v-on:click="hideQRModal();">
+        <div class="modal-body">
+          <img src="@/assets/wechatQR.jpg">
         </div>
       </div>     
     </div>
@@ -78,13 +88,17 @@ export default {
   },
   computed: {
     ...mapState({ showHideDetail: "showHideDetail"}),
+    ...mapState({ showHideQR: "showHideQR"}),    
     ...mapState({ currentProduct: "currentProduct"}),
     ...mapState({ curPosition: "curPosition"})
   },
   methods: {
-    ...mapMutations(["setShowSearch","setShowHideDetail","setCurPosition"]),
+    ...mapMutations(["setShowSearch","setShowHideDetail","setCurPosition","setShowHideQR"]),
     hideModal() {
       this.setShowHideDetail(false);
+    },
+    hideQRModal() {
+      this.setShowHideQR(false);
     },
     handleScroll(){
       this.setCurPosition(document.documentElement.scrollTop)

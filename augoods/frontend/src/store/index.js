@@ -32,7 +32,6 @@ export default new Vuex.Store({
   modules: { cart: CartModule, orders: OrdersModule, auth: AuthModule },
   state: {
     curPosition:0,
-
     // products: [],
     categoriesData: [],
     allProducts: [],
@@ -45,7 +44,8 @@ export default new Vuex.Store({
     searchTerm: "",
     showSearch: true,
     currentProduct: {},
-    showHideDetail: false
+    showHideDetail: false,
+    showHideQR:false
   },
   getters:{
     // productsFilteredByCategory: state => state.products
@@ -141,6 +141,9 @@ export default new Vuex.Store({
     },
     setShowHideDetail(state, show) {
       state.showHideDetail = show;
+    },
+    setShowHideQR(state, show) {
+      state.showHideQR = show;
     },
     setSearchTerm(state, term) {
       state.searchTerm = term;

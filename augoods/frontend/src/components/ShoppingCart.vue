@@ -8,7 +8,7 @@
     <div class="row">
       <div class="col mt-2">
         <h2 class="text-center">购物车</h2>
-        <table class="table table-bordered table-striped p-1">
+        <table class="table table-bordered table-striped p-1" style="width:100%">
           <thead>
             <tr>
               <th>产品</th><th>单价</th>              
