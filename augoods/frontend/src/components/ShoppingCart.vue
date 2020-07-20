@@ -6,7 +6,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="col mt-2">
+      <div class="col">
         <h2 class="text-center">购物车</h2>
         <table class="table table-bordered table-striped p-1" style="width:100%">
           <thead>
