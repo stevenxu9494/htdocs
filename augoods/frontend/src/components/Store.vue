@@ -1,23 +1,16 @@
 <style type="text/css">
-  * {
-    margin: 0;
-    padding: 0;
-  }
-
   .modal-overlay {
-    position: absolute;
+    position: fixed;
     display: inline-block;
     max-height: 100vh;
+    width: 100%;
     overflow-y: auto;
     padding: 5px;
     display: flex;
-    top: 0;
+    top: 3vh;
     left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 5;
+    z-index: 20;
     background-color: rgba(0, 0, 0, 0.3);
-    margin-top: 3vh;
   }
   .modal {
     position: fixed;
@@ -25,37 +18,21 @@
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 99;
-    
     width: 100%;
-    max-width: 400px;
+    max-width: 100%;
     background-color: #FFF;
     border-radius: 16px;
-    
     padding: 25px;
   }
   .modal-body{
     text-align: center;
     margin-top: 1vh;
-  }
-  .fade-enter-active,
-  .fade-leave-active {
-    transition: opacity .5s;
-  }
-  .fade-enter,
-  .fade-leave-to {
-    opacity: 0;
-  }
-  .slide-enter-active,
-  .slide-leave-active {
-    transition: transform .5s;
-  }
-  .slide-enter,
-  .slide-leave-to {
-    transform: translateY(-50%) translateX(100vw);
+    min-width: 80%;
   }
   #detail {
     max-width:100%;
   }
+
 </style>
 <template>
   <div class="container-fluid">
@@ -74,10 +51,9 @@
         <product-list />
       </div>
     </div>
-
-    <!-- 显示隐藏详情 -->
-    <div id="application">
-      <div class="modal-overlay" v-if="showHideDetail" v-on:click="hideModal();">
+    <!-- modal -->
+    <div>
+      <div class="modal-overlay" v-if="showHideDetail" v-on:click="hideModal();" style="margin-top:{{curPosition}}px">
         <div class="modal-body">
           <div v-if="currentProduct.detailUrl.length > 0">
             <div v-for="url in currentProduct.detailUrl" :key="url">
@@ -90,7 +66,7 @@
         </div>
       </div>     
     </div>
-    
+
   </div>
 </template>
 
@@ -106,14 +82,25 @@ import Search from "./Search";
 export default {
   mixins:[vueWindowSizeMixin],
   components: { ProductList, CategoryControls, CartSummary, Search },
+  created() {
+    window.addEventListener('scroll', this.handleScroll);
+  },
+  destroyed () {
+    window.removeEventListener('scroll', this.handleScroll);
+  },
   computed: {
     ...mapState({ showHideDetail: "showHideDetail"}),
-    ...mapState({ currentProduct: "currentProduct"})
+    ...mapState({ currentProduct: "currentProduct"}),
+    ...mapState({ curPosition: "curPosition"})
   },
   methods: {
-    ...mapMutations(["setShowSearch","setShowHideDetail"]),
+    ...mapMutations(["setShowSearch","setShowHideDetail","setCurPosition"]),
     hideModal() {
       this.setShowHideDetail(false);
+    },
+    handleScroll(){
+      this.setCurPosition(document.documentElement.scrollTop)
+      console.log(document.documentElement.scrollTop);
     }
   }
 }

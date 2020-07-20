@@ -1,5 +1,10 @@
 <template>
   <div>
+    <div v-if="products.length==0">
+      <h5 class="text-center">
+        亲，暂时找不到您搜索的商品，请重新输入或联系客服~
+      </h5>
+    </div>
     <div v-for="p in products" v-bind:key="p.id" class="card m-1 p-1 bg-light" >
       <div v-on:click = "showModal();selectProduct(p);" style="cursor:pointer;">
         <img v-bind:src="p.thumbUrl" style="float:left;max-width:30%;max-height:70%;"/>

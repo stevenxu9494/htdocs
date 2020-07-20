@@ -31,8 +31,8 @@ export default new Vuex.Store({
   strict: false,
   modules: { cart: CartModule, orders: OrdersModule, auth: AuthModule },
   state: {
-    screenHeight: 0,
-    screenWidth: 0,
+    curPosition:0,
+
     // products: [],
     categoriesData: [],
     allProducts: [],
@@ -133,8 +133,8 @@ export default new Vuex.Store({
     setShowSearch(state, show) {
       state.showSearch = show;
     },
-    setScreenHeight(state, height) {
-      state.ScreenHeight = height
+    setCurPosition(state, position) {
+      state.curPosition = position
     },
     setScreenWidth(state, width) {
       state.screenWidth = width
