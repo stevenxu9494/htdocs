@@ -13,16 +13,8 @@
         </h5>
         <br><br>
         <div class="card-text bg-white p-1" v-if="p.price!='0.00'">
-          <span style="padding: 1px 9px 2px;
-  font-size: 12.025px;
-  font-weight: bold;
-  white-space: nowrap;
-  color: #ffffff;
-  background-color: #999999;
-  -webkit-border-radius: 9px;
-  -moz-border-radius: 9px;
-  border-radius: 9px;background-color: #FFCC00;float:right;">
-            {{ p.sellPrice | currency}}
+          <span class="badge badge-pill badge-warning float-right">
+            ￥{{ p.sellPrice}}
           </span>
           <p>品牌： {{ p.brand }}</p>
           <button class="btn btn-success btn-sm float-right" v-on:click="handleProductAdd(p)">
