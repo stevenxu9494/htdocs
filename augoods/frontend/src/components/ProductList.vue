@@ -13,7 +13,7 @@
         </h5>
         <br><br>
         <div class="card-text bg-white p-1" v-if="p.price!='0.00'">
-          <span class="badge badge-pill badge-warning float-right">
+          <span class="badge badge-pill badge-info float-right">
             {{ p.sellPrice | currency}}
           </span>
           <p>品牌： {{ p.brand }}</p>
