@@ -4,7 +4,7 @@
       <button v-bind:disabled="currentPage == 1"
         v-on:click="setCurrentPage(currentPage - 1)"
         class="btn btn-secondary btn-sm mx -1"><span style="font-size:20px;transform: scale(.5, 1);">&laquo;</span>上一页</button>
-      <span v-if="currentPage > 4">
+      <span v-if="currentPage > 2">
         <button v-on:click="setCurrentPage(1)"
           class="btn btn-secondary btn-sm mx-1">1</button>
         <span class="h4">...</span>
@@ -15,7 +15,7 @@
           v-bind:class="{ 'btn-primary': i == currentPage }"
           v-on:click="setCurrentPage(i)">{{ i }}</button>
       </span>
-      <span v-if="currentPage <= pageCount - 4">
+      <span v-if="currentPage <= pageCount - 2">
         <span class="h4">...</span>
         <button v-on:click="setCurrentPage(pageCount)"
           class="btn btn-secondary btn-sm mx-1">{{ pageCount}}</button>
@@ -41,12 +41,12 @@
       ...mapState(["currentPage"]),
       ...mapGetters(["pageCount"]),
       pageNumbers() {
-        if (this.pageCount < 4) {
+        if (this.pageCount < 2) {
           return [...Array(this.pageCount + 1).keys()].slice(1);
-        } else if (this.currentPage <= 4) {
-          return [1, 2, 3, 4, 5];
-        } else if (this.currentPage > this.pageCount - 4) {
-          return [...Array(5).keys()].reverse()
+        } else if (this.currentPage <= 2) {
+          return [1, 2, 3];
+        } else if (this.currentPage > this.pageCount - 2) {
+          return [...Array(3).keys()].reverse()
             .map(v => this.pageCount - v);
         } else {
           return [this.currentPage -1, this.currentPage,

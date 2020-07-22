@@ -7,11 +7,14 @@
     </div>
     <div v-for="p in products" v-bind:key="p.id" class="card m-1 p-1 bg-white" >
       <div v-on:click = "showModal();selectProduct(p);" style="cursor:pointer;">
-        <img v-bind:src="p.thumbUrl" style="float:left;max-width:30%;height:8vh;"/>
-        <h5>
-          {{p.name}}
-        </h5>
-        <br><br>
+        <div style="height:9vh;">
+          <img v-bind:src="p.thumbUrl" style="float:left;max-width:40%;max-height:100%;"/>
+          <h5>
+            {{p.name}}
+          </h5>
+        </div>
+        
+        <br>
         <div class="card-text bg-light p-1" v-if="p.price!='0.00'">
           <span class="badge badge-pill badge-warning float-right">
             ￥{{ p.sellPrice}}

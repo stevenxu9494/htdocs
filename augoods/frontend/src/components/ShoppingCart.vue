@@ -5,10 +5,10 @@
         <a href="/" class="navbar-brand" style="color: inherit;text-decoration: none;"><img style="height:3vh;" src="@/assets/logo.png">澳驰</a>
       </div>
     </div>
-    <div class="row">
+    <div class="row mx-auto">
       <div class="col">
         <h2 class="text-center">购物车</h2>
-        <table class="table table-bordered table-striped p-1" style="width:100%">
+        <table class="table table-bordered table-striped p-1">
           <thead>
             <tr>
               <th>产品</th><th>单价</th>              
