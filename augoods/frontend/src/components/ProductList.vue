@@ -7,7 +7,7 @@
     </div>
     <div v-for="p in products" v-bind:key="p.id" class="card m-1 p-1 bg-light" >
       <div v-on:click = "showModal();selectProduct(p);" style="cursor:pointer;">
-        <img v-bind:src="p.thumbUrl" style="float:left;max-width:30%;max-height:70%;"/>
+        <img v-bind:src="p.thumbUrl" style="float:left;max-width:30%;max-height:40%;"/>
         <h5>
           {{p.name}}
         </h5>
@@ -31,7 +31,7 @@
         </div>
       </div>      
     </div>
-    <page-controls/>
+    <page-controls />
   </div>
 </template>
 

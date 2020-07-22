@@ -22,7 +22,6 @@
   }
   #QR {
     max-width: 100%;
-    text-align: center;
   }
 
 </style>
@@ -41,7 +40,6 @@
       <div class="col-9 p-2">
         <Search />
         <product-list />
-        
       </div>
     </div>
     <!-- poducts detail modal -->
@@ -63,7 +61,7 @@
     <div>
       <div class="modal-overlay" v-if="showHideQR" v-on:click="hideQRModal();">
         <div class="modal-body">
-          <img id="QR" src="@/assets/wechatQR.jpg">
+          <img id="QR" class="mx-auto" src="@/assets/wechatQR.jpg">
         </div>
       </div>     
     </div>
