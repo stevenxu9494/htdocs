@@ -25,7 +25,7 @@
         class="btn btn-secondary btn-sm mx-1">&gt;</button>
     </div>
     <br>
-    <div class="col-3 form-group" style="margin-top:10px;">
+    <div class="col-3 form-group mx-auto" style="margin-top:10px;">
       <select v-on:change="changePageSize">
         <option value="4">每页显示4件商品</option>
         <option value="8">每页显示8件商品</option>
