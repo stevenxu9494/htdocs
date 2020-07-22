@@ -1,7 +1,7 @@
 <template>
   <div class="container-fluid">
-    <div class="row my-2" v-for="c in categories" v-bind:key="c">
-      <button class="btn btn-block"
+    <div class="row my-0" v-for="c in categories" v-bind:key="c">
+      <button class="btn btn-sm btn-block"
         v-on:click="setCurrentCategory(c)"
         v-bind:class="c == currentCategory
           ? 'btn-primary' : 'btn-secondary'">
@@ -9,7 +9,7 @@
       </button>
     </div>
     <div class="m-1 text-center">
-      <p style="font-weight:bold;">扫描微信二维码添加客服</p>
+      <p style="font-weight:bold;color:#FFFFFF;">官方微信二维码</p>
       <img style="max-width:100%; max-height:100%; cursor:pointer;" src="@/assets/wechatQR.jpg" v-on:click="showQRModal();">
     </div>
     
