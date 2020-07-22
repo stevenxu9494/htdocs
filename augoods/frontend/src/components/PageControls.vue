@@ -3,11 +3,11 @@
     <div class="mx-auto m-1 p-3">
       <button v-bind:disabled="currentPage == 1"
         v-on:click="setCurrentPage(currentPage - 1)"
-        class="btn btn-secondary btn-sm mx -1"><span style="font-size:20px;transform: scale(.5, 1);">&lt;</span></button>
+        class="btn btn-secondary btn-sm mx -1">&lt;</button>
       <span v-if="currentPage > 2">
         <button v-on:click="setCurrentPage(1)"
           class="btn btn-secondary btn-sm mx-1">1</button>
-        <span class="h4">...</span>
+        <span class="h5">...</span>
       </span>
       <span class="mx-1">
         <button v-for="i in pageNumbers" v-bind:key="i"
@@ -16,13 +16,13 @@
           v-on:click="setCurrentPage(i)">{{ i }}</button>
       </span>
       <span v-if="currentPage <= pageCount - 2">
-        <span class="h4">...</span>
+        <span class="h5">...</span>
         <button v-on:click="setCurrentPage(pageCount)"
           class="btn btn-secondary btn-sm mx-1">{{ pageCount}}</button>
       </span>
       <button v-bind:disabled="currentPage == pageCount"
         v-on:click="setCurrentPage(currentPage + 1)"
-        class="btn btn-secondary btn-sm mx-1"><span style="font-size:20px;transform: scale(.5, 1);">&gt;</span></button>
+        class="btn btn-secondary btn-sm mx-1">&gt;</button>
     </div>
     <br>
     <div class="col-3 form-group" style="margin-top:10px;">

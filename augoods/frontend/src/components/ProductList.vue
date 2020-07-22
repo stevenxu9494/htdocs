@@ -9,9 +9,9 @@
       <div v-on:click = "showModal();selectProduct(p);" style="cursor:pointer;">
         <div style="height:9vh;">
           <img v-bind:src="p.thumbUrl" style="float:left;max-width:40%;max-height:100%;"/>
-          <h5>
+          <h6>
             {{p.name}}
-          </h5>
+          </h6>
         </div>
         
         <br>
