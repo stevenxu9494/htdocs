@@ -5,14 +5,14 @@
         亲，暂时找不到您搜索的商品，请重新输入或联系客服~
       </h5>
     </div>
-    <div v-for="p in products" v-bind:key="p.id" class="card m-1 p-1 bg-light" >
+    <div v-for="p in products" v-bind:key="p.id" class="card m-1 p-1 bg-white" >
       <div v-on:click = "showModal();selectProduct(p);" style="cursor:pointer;">
-        <img v-bind:src="p.thumbUrl" style="float:left;max-width:30%;max-height:40%;"/>
+        <img v-bind:src="p.thumbUrl" style="float:left;max-width:30%;height:8vh;"/>
         <h5>
           {{p.name}}
         </h5>
         <br><br>
-        <div class="card-text bg-white p-1" v-if="p.price!='0.00'">
+        <div class="card-text bg-light p-1" v-if="p.price!='0.00'">
           <span class="badge badge-pill badge-warning float-right">
             ￥{{ p.sellPrice}}
           </span>

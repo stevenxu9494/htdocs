@@ -3,26 +3,26 @@
     <div class="mx-auto m-1 p-3">
       <button v-bind:disabled="currentPage == 1"
         v-on:click="setCurrentPage(currentPage - 1)"
-        class="btn btn-secondary mx -1"><span style="font-size:20px;transform: scale(.5, 1);">&laquo;</span>上一页</button>
+        class="btn btn-secondary btn-sm mx -1"><span style="font-size:20px;transform: scale(.5, 1);">&laquo;</span>上一页</button>
       <span v-if="currentPage > 4">
         <button v-on:click="setCurrentPage(1)"
-          class="btn btn-secondary mx-1">1</button>
+          class="btn btn-secondary btn-sm mx-1">1</button>
         <span class="h4">...</span>
       </span>
       <span class="mx-1">
         <button v-for="i in pageNumbers" v-bind:key="i"
-          class="btn btn-secpmdary"
+          class="btn btn-sm btn-secpmdary"
           v-bind:class="{ 'btn-primary': i == currentPage }"
           v-on:click="setCurrentPage(i)">{{ i }}</button>
       </span>
       <span v-if="currentPage <= pageCount - 4">
         <span class="h4">...</span>
         <button v-on:click="setCurrentPage(pageCount)"
-          class="btn btn-secondary mx-1">{{ pageCount}}</button>
+          class="btn btn-secondary btn-sm mx-1">{{ pageCount}}</button>
       </span>
       <button v-bind:disabled="currentPage == pageCount"
         v-on:click="setCurrentPage(currentPage + 1)"
-        class="btn btn-secondary mx-1">下一页<span style="font-size:20px;transform: scale(.5, 1);">&raquo;</span></button>
+        class="btn btn-secondary btn-sm mx-1">下一页<span style="font-size:20px;transform: scale(.5, 1);">&raquo;</span></button>
     </div>
     <br>
     <div class="col-3 form-group" style="margin-top:10px;">
