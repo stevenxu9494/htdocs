@@ -3,7 +3,7 @@
     <div class="mx-auto m-1 p-3">
       <button v-bind:disabled="currentPage == 1"
         v-on:click="setCurrentPage(currentPage - 1)"
-        class="btn btn-secondary btn-sm mx -1"><span style="font-size:20px;transform: scale(.5, 1);">&laquo;</span>上一页</button>
+        class="btn btn-secondary btn-sm mx -1"><span style="font-size:20px;transform: scale(.5, 1);">&lt;</span></button>
       <span v-if="currentPage > 2">
         <button v-on:click="setCurrentPage(1)"
           class="btn btn-secondary btn-sm mx-1">1</button>
@@ -22,7 +22,7 @@
       </span>
       <button v-bind:disabled="currentPage == pageCount"
         v-on:click="setCurrentPage(currentPage + 1)"
-        class="btn btn-secondary btn-sm mx-1">下一页<span style="font-size:20px;transform: scale(.5, 1);">&raquo;</span></button>
+        class="btn btn-secondary btn-sm mx-1"><span style="font-size:20px;transform: scale(.5, 1);">&gt;</span></button>
     </div>
     <br>
     <div class="col-3 form-group" style="margin-top:10px;">
